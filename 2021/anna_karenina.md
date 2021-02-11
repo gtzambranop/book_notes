@@ -10,11 +10,15 @@
 - Familia Oblonski:
   - Stepán Arkádich Oblonski - Stiva
     - Le fue infiel a su esposa con la institutriz (m-lle Roland) de sus hijos.
-    - No se arrepiente de serle infiel a su esposa sino de ser descbierto.
+    - No se arrepiente de serle infiel a su esposa, sino de ser descubierto.
+    - Sus tendencias políticas y opiniones eran las de la mayoría, no propias. Tenía tendencias liberales porque se ajustaban a su estilo de vida (muchas deudas, poco dinero).
+    - Su comportamiento seguía una tendencia liberal innata, trataba a todos commo sus iguales.
+    - Trabajo: Presidentede sala de un tribunal en Monscú.
+    - Compañeros de trabajo: Nikitin y Griniévich.
     - Los criados le querían.
     - 7 hijos - 5 viven
     - 34 años
-    - Apariencia: Cabello rizado, cutis sonrosado
+    - Apariencia: Cabello rizado negro, cutis sonrosado.
   - Daria Alexándrovna - Dolly
     - Esposa de Stiva
     - 7 hijos - 5 viven
@@ -23,8 +27,19 @@
     - Ayudante de Stiva, casi amigo.
   - Anna Arkadièvna:
     - Hermana de Stiva
+    - Esposo: Alexiéi Alexándrovich Karenin
   - Matriona Filimónovna
     - Niñera
+  - Grisha
+    - Hijo menor
+    - Sabe que su padre casi no lo quiere
+  - Tania
+    - Hija mayor
+    - Predilecta
+- Familia Karenin:
+  - Alexiéi Alexándrovich Karenin
+    - Trabajo; Uno de los jefes del ministerio de justicia.
+  - Anna Arkadièvna:
 
 ## Nuevas Palabras
 
@@ -41,6 +56,19 @@
 - **Fámulo:** Criado o sirviente de un convento u otro medio eclesiástico. Criado o sirviente doméstico.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
 - **Resongar:** Emitir sonidos no articulados o palabras murmuradas entre dientes en señal de enfado o desagrado.
+- **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
+- **Cupé:** Cupé​​ o coupé (del francés couper, «cortar») es un tipo de carrocería de automóvil de dos o tres volúmenes y dos puertas laterales.
+  ![Cupé](images/B00_01.png)
+- **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
+- **Ujier, Hujier:** Portero de un palacio o de un tribunal.
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
 - **:**
 - **:**
 - **:**
