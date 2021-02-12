@@ -5,7 +5,7 @@
 - **Inicio de Lectura:** 09-02-2021
 - **Fin de Lectura:**
 
-## Datos importantes de personajes
+## Datos importantes de personajes y familias
 
 - Familia Oblonski:
   - Stepán Arkádich Oblonski - Stiva
@@ -14,7 +14,10 @@
     - Sus tendencias políticas y opiniones eran las de la mayoría, no propias. Tenía tendencias liberales porque se ajustaban a su estilo de vida (muchas deudas, poco dinero).
     - Su comportamiento seguía una tendencia liberal innata, trataba a todos commo sus iguales.
     - Trabajo: Presidentede sala de un tribunal en Monscú.
-    - Compañeros de trabajo: Nikitin y Griniévich.
+    - Compañeros de trabajo:
+      - Secretario - Zajar Nikítich
+      - Filip Iványch Nikitin
+      - Mijaíl Stanislávich Griniévich.
     - Los criados le querían.
     - 7 hijos - 5 viven
     - 34 años
@@ -40,6 +43,24 @@
   - Alexiéi Alexándrovich Karenin
     - Trabajo; Uno de los jefes del ministerio de justicia.
   - Anna Arkadièvna:
+- Konstantín Dimítrich Lievin:
+  - La familia es de un antiguo linaje aristocrático en Moscú. Cercana a la familia Scherbatski, la concideraba perfecta y le atribuía los más noble sentimientos y las perfecciones más ideales.
+  - Su madre murió cuando él era niño.
+  - Amigo de Oblonski desde la adolescencia
+  - Tiene 32 años.
+  - Hermanastro de Serguiéi Iványch koznyshov: Famoso escritor
+  - Tiene una hermana mayor.
+  - Está enamorado de Kiti, la cuñada de Stiva.
+  - Tiene tres mil hectareas en el distrito Kazarin.
+  - Tiene buen aspecto y estado físico.
+  - El cree que es feo, vulgar y fracasado.
+- Familia Scherbatski
+  - La familia es de un antiguo linaje aristocrático en Moscú.Cercana a la familia Lievin.
+  - Dolli y Kiti recibieron una buena educación.
+  - principe - Murió ahogado en el Báltico
+  - Kiti
+  - Dolli
+  - Natalia - Casada con un diplomático llamado Lvov.
 
 ## Nuevas Palabras
 
@@ -61,6 +82,16 @@
   ![Cupé](images/B00_01.png)
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
 - **Ujier, Hujier:** Portero de un palacio o de un tribunal.
+- **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
+- **Zemstvo:** Asambeas o Cámaras autónomas provinciales y municipales, que se crearon en Rusia en tiempos de Alejandro II.
+- **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
+- **Pueril:** 1 - Que es propio de los niños pequeños o tiene alguna característica propia de ellos. 2 - Que tiene poco valor, poco interés o poca importancia.
+- **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
+  ![Gallinago](images/B00_02.png)
+- **:**
+- **:**
+- **:**
+- **:**
 - **:**
 - **:**
 - **:**
