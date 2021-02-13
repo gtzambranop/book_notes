@@ -5,6 +5,11 @@
 - **Inicio de Lectura:** 09-02-2021
 - **Fin de Lectura:**
 
+## Significado de etiquetas
+
+- **Fucsia:** Lievin
+- **Amarillo:** Kiti.
+
 ## Datos importantes de personajes y familias
 
 - Familia Oblonski:
@@ -48,25 +53,36 @@
   - Su madre murió cuando él era niño.
   - Amigo de Oblonski desde la adolescencia
   - Tiene 32 años.
-  - Hermanastro de Serguiéi Iványch koznyshov: Famoso escritor
-  - Tiene una hermana mayor.
+  - Familia:
+    - Hermanastro de Serguiéi Iványch koznyshov
+      - Famoso escritor
+    - Hermano de Nikolái Lievin
+      - Descarriado
+    - Tiene una hermana mayor.
   - Está enamorado de Kiti, la cuñada de Stiva.
   - Tiene tres mil hectareas en el distrito Kazarin.
   - Tiene buen aspecto y estado físico.
+  - Es un gran patinador de hielo.
   - El cree que es feo, vulgar y fracasado.
 - Familia Scherbatski
   - La familia es de un antiguo linaje aristocrático en Moscú.Cercana a la familia Lievin.
   - Dolli y Kiti recibieron una buena educación.
   - principe - Murió ahogado en el Báltico
-  - Kiti
+  - Kiti:
+    - Quiere a Lievin como a un hermano.
   - Dolli
   - Natalia - Casada con un diplomático llamado Lvov.
+  - Nikolái Scherbatski - Primo de Kiti
+  - m-lle Linon - Institutriz
 
+## Frases
+
+- **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
 ## Nuevas Palabras
 
 - **Canapé:** Un canapé es un mueble similar a un sofá. Se caracteriza por la presencia de brazos y por ser acolchado en el asiento y en el respaldo. Este mueble surgió durante el reinado de Luis XIV en Francia en el siglo XVII.
 
-![Canapé](images/B00_00.png)
+  ![Canapé](images/B00_00.png)
 
 - **Tafilete:** Piel curtida bruñida y lustrosa mucho más delgada y adaptable que el cordobán; se utiliza para la fabricación de bolsos, guantes, zapatos, etc.
 - **Trajinar:** Moverse mucho una persona o andar de un sitio para otro.
@@ -79,7 +95,9 @@
 - **Resongar:** Emitir sonidos no articulados o palabras murmuradas entre dientes en señal de enfado o desagrado.
 - **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
 - **Cupé:** Cupé​​ o coupé (del francés couper, «cortar») es un tipo de carrocería de automóvil de dos o tres volúmenes y dos puertas laterales.
+
   ![Cupé](images/B00_01.png)
+
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
 - **Ujier, Hujier:** Portero de un palacio o de un tribunal.
 - **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
@@ -87,19 +105,24 @@
 - **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
 - **Pueril:** 1 - Que es propio de los niños pequeños o tiene alguna característica propia de ellos. 2 - Que tiene poco valor, poco interés o poca importancia.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
+
   ![Gallinago](images/B00_02.png)
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
+
+- **Zafio:** Que es inculto y no tiene finura.
+- **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
+- **Proindiviso:**  El derecho parcial de una persona sobre una propiedad. La razón es que comparte la titularidad con una o más personas, por lo que se considera una comunidad de bienes o copropiedad.
+- **Dilapidar:** Malgastar el dinero o los bienes.
+- **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
+- **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
+- **Inefable:** Que no puede ser dicho, explicado o descrito con palabras, generalmente por tener cualidades excelsas o por ser muy sutil o difuso.
+- **Candor:** 1- Máxima blancura. 2 - Ingenuidad, falta total de malicia y de hipocresía.
+- **Lánguido:** Que carece de fuerza, vigor o lozanía.
+- **Osado:** 1 - Que se atreve a afrontar situaciones difíciles o peligrosas con valentía y entereza. 2 - Que habla u obra con atrevimiento y descaro.
+- **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.
+- **Rodaballo:** El rodaballo o turbot es una especie de pez pleuronectiforme de la familia Scophthalmidae.
+
+  ![Rodabballo](images/B00_03.png)
+
 - **:**
 - **:**
 - **:**
