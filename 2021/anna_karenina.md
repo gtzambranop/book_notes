@@ -50,12 +50,15 @@
     - Hijo menor
     - Sabe que su padre casi no lo quiere
   - Tania
-    - Hija mayor
+    - Hija mayor - 8 años
     - Predilecta
+  - Vasia
 - Familia Karenin:
   - Alexiéi Alexándrovich Karenin
     - Trabajo; Uno de los jefes del ministerio de justicia.
   - Anna Arkadièvna:
+    - Seriozha - hijo
+      - 8 años
 - Konstantín Dimítrich Lievin:
   - La familia es de un antiguo linaje aristocrático en Moscú. Cercana a la familia Scherbatski, la concideraba perfecta y le atribuía los más noble sentimientos y las perfecciones más ideales.
   - Su madre murió cuando él era niño.
@@ -88,10 +91,10 @@
 - Vronski
   - Guapo, rico, aristócrata, bien relacionado e inteligente.
   - Hijo del conde Kiril Ivánovich
+  - Madre: Aliosha - No profesaba amor ni respeto a su madre, pero se comportaba respetuoso y sumiso porque era lo que se esperaba de él.
   - Brillante futuro en el ejército como en la corte.
   - Aprecia a Kiti pero no piensa en casarse con ella. Le gusta la familia Scherbatski porque tiene un aura pura y familiar.
   - Mediana estatura, bien proporcionado, moreno, rostro hermoso de rasgos pasmosamente serenos. Cabello corto negro y mentón rasurado.
-  - No profesaba amor ni respeto a su madre, pero se comportaba respetuoso y sumiso porque era lo que se esperaba de él.
 ## Frases
 
 - **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
@@ -168,8 +171,8 @@
 - **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
 - **Futíl:** Que carece de importancia o interés por su falta de fundamento.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
-- **:**
-- **:**
+- **LLaneza:**
+- **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
 - **:**
 - **:**
 - **:**
