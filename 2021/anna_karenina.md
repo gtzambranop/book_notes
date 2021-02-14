@@ -7,8 +7,16 @@
 
 ## Significado de etiquetas
 
+**Posición:**
+
+- **Superior:** Un fragmento grande de la página.
+- **Costado:** Una frase corta.
+
+**Color:**
+
 - **Fucsia:** Lievin
 - **Amarillo:** Kiti.
+- **Naranja:** Vronski
 
 ## Datos importantes de personajes y familias
 
@@ -27,7 +35,7 @@
     - 7 hijos - 5 viven
     - 34 años
     - Apariencia: Cabello rizado negro, cutis sonrosado.
-  - Daria Alexándrovna - Dolly
+  - Daria Alexándrovna - Dolly - Masha
     - Esposa de Stiva
     - 7 hijos - 5 viven
     - 33 años
@@ -66,15 +74,24 @@
   - El cree que es feo, vulgar y fracasado.
 - Familia Scherbatski
   - La familia es de un antiguo linaje aristocrático en Moscú.Cercana a la familia Lievin.
-  - Dolli y Kiti recibieron una buena educación.
-  - principe - Murió ahogado en el Báltico
+  - La madre rechaza la idea de que los hijos elijan con quién casarse, prefiere a Vronski que a Lievin, a diferencia de su esposo.
+  - Los hijos de la familia recibieron una buena educación.
+  - El hijo de la familia murió ahogado en el Báltico
   - Kiti:
     - Quiere a Lievin como a un hermano.
-  - Dolli
+    - Tiene 18 años.
+    - Condesa Nordston - amiga: Tez amarillenta, brillantes ojos negros, delgada, nerviosa y enfemiza.
+  - Dolli - Esposa de Stiva
   - Natalia - Casada con un diplomático llamado Lvov.
   - Nikolái Scherbatski - Primo de Kiti
   - m-lle Linon - Institutriz
-
+- Vronski
+  - Guapo, rico, aristócrata, bien relacionado e inteligente.
+  - Hijo del conde Kiril Ivánovich
+  - Brillante futuro en el ejército como en la corte.
+  - Aprecia a Kiti pero no piensa en casarse con ella. Le gusta la familia Scherbatski porque tiene un aura pura y familiar.
+  - Mediana estatura, bien proporcionado, moreno, rostro hermoso de rasgos pasmosamente serenos. Cabello corto negro y mentón rasurado.
+  - No profesaba amor ni respeto a su madre, pero se comportaba respetuoso y sumiso porque era lo que se esperaba de él.
 ## Frases
 
 - **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
@@ -123,6 +140,43 @@
 
   ![Rodabballo](images/B00_03.png)
 
+- **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
+- **Schi:** Sopa típica rusa a base de col.
+
+  ![Schi](images/B00_04.png)
+
+- **Kasha:** Plato típico ruso. Especie de gachas de arroz, sémola, alforfón o cebada perlada.
+
+  ![Schi](images/B00_05.png)
+
+- **Rosbif:** El Roast Beef es un corte de buey tierno que se asa al horno. En la cocina inglesa, y por extensión en muchos países de tradición anglosajona como Australia, el roast beef es un plato muy tradicional, servido preferentemente los domingos.
+
+  ![Schi](images/B00_06.png)
+
+- **Campón:** El capón es un gallo castrado a la edad de cuatro meses aproximadamente, antes de comenzar el proceso de engorde. Con ello se consigue mayor tamaño y peso que los gallos camperos normales, y su carne es más fina.
+
+  ![Schi](images/B00_07.png)
+
+- **Labriego:** Persona que tiene por oficio trabajar y cultivar la tierra y vive en el medio rural.
+- **Vaticinio:** Acción de anunciar un hecho futuro a partir de ciertos indicios o por simple intuición.
+- **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
+- **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
+- **Tez:** Piel de la cara de una persona.
+- **Pasmo:** Asombro o sorpresa exagerada que impide a una persona hablar o reaccionar.
+- **Oprobio:** Deshonra o vergüenza públicas.
+- **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
+- **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
+- **Futíl:** Que carece de importancia o interés por su falta de fundamento.
+- **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
+- **:**
 - **:**
 - **:**
 - **:**
