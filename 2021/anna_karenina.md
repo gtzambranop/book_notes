@@ -95,6 +95,7 @@
   - Brillante futuro en el ejército como en la corte.
   - Aprecia a Kiti pero no piensa en casarse con ella. Le gusta la familia Scherbatski porque tiene un aura pura y familiar.
   - Mediana estatura, bien proporcionado, moreno, rostro hermoso de rasgos pasmosamente serenos. Cabello corto negro y mentón rasurado.
+- Yegórushka Korsunski - Apuesto caballero, rey de los bailes.
 ## Frases
 
 - **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
@@ -169,16 +170,16 @@
 - **Oprobio:** Deshonra o vergüenza públicas.
 - **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
 - **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
-- **Futíl:** Que carece de importancia o interés por su falta de fundamento.
+- **Fútil:** Que carece de importancia o interés por su falta de fundamento.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
 - **LLaneza:**
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
-- **:**
+- **Yerro:** 1 - Equivocación que se comete por ignorancia o por descuido. 2 - Falta o pecado que atenta contra reglas morales o religiosas.
+- **Efigie:** Imagen o representación de una persona, generalmente reproducida en una moneda, una pintura o una escultura.
+- **Imberbe:** Que no tiene pelo en la barba o tiene muy poco, en especial si es joven.
+- **Marmórea:** Que tiene la dureza, el color u otra característica propia del mármol.
+- **Postín:** Distinción o elegancia de las personas ricas.
+- **Coloquio:** Conversación entre dos o más personas.
 - **:**
 - **:**
 - **:**
