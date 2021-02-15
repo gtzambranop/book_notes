@@ -96,6 +96,25 @@
   ![Abedul](images/B00_09.png)
 
 - **Zíngaro:** Que pertenece a la raza gitana, especialmente la de Europa central.
+- **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
+
+  ![Pelliza](images/B00_0A.png)
+
+- **Alforfón - Trigo Sacarreno:** El alforfón o trigo sarraceno es una planta anual herbácea de la familia Polygonaceae cultivada por sus granos para su consumo humano y animal. Se considera popularmente un cereal, aunque realmente no lo sea, ya que, aunque se parece, no pertenece a la familia de las gramíneas, sino a las poligonáceas.
+
+  ![Alfarfón](images/B00_0B.png)
+
+- **Gozne:** Bisagra, especialmente la de una puerta o ventana.
+- **Cumplimentar:** Hacer una visita de cortesía a alguien con motivo de algún acontecimiento próspero o adverso.
+- **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
+- **Doncella:** Mujer que, a cambio de una retribución económica, realiza los trabajos domésticos de una casa, no relacionados con la cocina, o que sirve a la señora de la casa.
+- **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
+
+  ![Plegadera](images/B00_0C.png)
+
+- **Conturbar:** Alterar el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía.
+- **:**
+- **:**
 - **:**
 - **:**
 - **:**

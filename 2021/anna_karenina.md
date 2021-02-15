@@ -59,22 +59,36 @@
   - Alexiéi Alexándrovich Karenin
     - Trabajo; Uno de los jefes del ministerio de justicia.
   - Anna Arkadièvna:
+    - Hermana de Stiva
     - Seriozha - hijo
       - 8 años
+      - Bucles rubios, ojos azules, piernas bien proporcionadas
+    - Doncella: Ánnushka
+    - Lidia Ivánovna - samovar:
+      - Samovar por su perpetuo estado de agitación.
+      - Amiga de Karenin, que a causa de su marido, Anna se veía obligada a frecuentar.
 - Konstantín Dimítrich Lievin:
   - La familia es de un antiguo linaje aristocrático en Moscú. Cercana a la familia Scherbatski, la concideraba perfecta y le atribuía los más noble sentimientos y las perfecciones más ideales.
-  - Su madre murió cuando él era niño.
   - Amigo de Oblonski desde la adolescencia
   - Tiene 32 años.
   - Familia:
+    - Su madre murió cuando él era niño.
+    - Tiene una hermana mayor. (?)
     - Hermanastro de Serguiéi Iványch koznyshov
       - Famoso escritor
     - Hermano de Nikolái Lievin
       - Descarriado
       - Maria Nikoláievna
         - Compañera de Nikolái
-
-    - Tiene una hermana mayor.
+  - Empleados:
+    - Ignat - Cochero: Tuerto
+    - Agafia Mijáilovna - Antigua criada, actual ama de llaves.
+    - Fiódor - Vasili Fiódorovich - Administrador.
+    - Semión - Contratista.
+  - Animales:
+    - Pava: Vaca
+    - Laska: Perra
+    - Berkut: Toro
   - Está enamorado de Kiti, la cuñada de Stiva.
   - Tiene tres mil hectareas en el distrito Kazarin.
   - Tiene buen aspecto y estado físico.
@@ -104,3 +118,5 @@
 ## Frases
 
 - **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
+- **Lievin:** No, no nos abandonarás, no podrás huir de ti mismo, seguirás siendo lo que has sido siempre, con tus dudas, tu eterno descontento de ti mismo, tus vanas tentativas de reforma, tus caidas, tu eterna esperanza de una felicidad que se te escurre y que no está hecha para ti.
+- **Anna:** Al apearse el tren, el primer rostro que percibió fue el de su marido. _"Dios mío, ¿por qué se han vuelto tan largas sus orejas?"_, se dijo al observar su distinguida pero fría figura, cuyo sombrero parecía estar apoyado sobre los salientes cartílagos de las ojeras. Él fue a su encuentro y la miró fijamente con sus grandes ojos fatigados, conservando en sus labios su habitual sonrisa irónica. Anna sintió que se le comprimía el corazón. ¿Había esperado, quizá, hallarlo diferente de lo que era?Su fría, severa mirada, la había conturbado. Sentía ahora que su conciencia le reprochaba toda la hipocresía, toda la falsedad de las relaciones con su marido. Ciertamente, ese sentimiento se hallaba desde hacía mucho tiempo en lo más profundo de su ser, pero era la primera vez que se manifestaba con tan dolorosa sinseridad.
