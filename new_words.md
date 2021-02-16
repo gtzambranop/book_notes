@@ -117,9 +117,12 @@
 - **Decimónico:** Del siglo XIX o relacionado con él.
 - **Tapia:** Trozo de pared o muro que se hace de una sola vez con barro apisonado en un molde (tapial) y después secado al sol.
 - **Porra:** Palo con una bola o cabeza gruesa y redondeada en uno de sus extremos, que se usa como arma para golpear.
-- **:**
-- **:**
-- **:**
+- **Mendrugo:** Pedazo de pan duro o desechado, especialmente el sobrante.
+- **In-folio:** In-folio o infolio (del latín in folio, en hoja) o, abreviado como in-2º, es un término técnico utilizado en encuadernación que indica el tamaño de un libro, donde la hoja impresa se ha doblado sólo una vez sobre el lado menor, por lo que da lugar a dos folios que equivalen a cuatro páginas. <br>
+Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-octavo o in-8º; si en 16, in-decimosexto o in-16º; si en 32, in-32º y si en 64, in-64º.
+
+  ![in-folio](images/B00_0D.png)
+- **Trascender:** Hacer sentir sus efectos o tener consecuencias en lugar o medio distinto de aquel en que se produce.
 - **:**
 - **:**
 - **:**
