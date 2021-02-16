@@ -113,10 +113,10 @@
   ![Plegadera](images/B00_0C.png)
 
 - **Conturbar:** Alterar el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía.
-- **:**
-- **:**
-- **:**
-- **:**
+- **Oblongo:** Que es más largo que ancho o que es más largo de lo que es habitual entre las cosas de su mismo género.
+- **Decimónico:** Del siglo XIX o relacionado con él.
+- **Tapia:** Trozo de pared o muro que se hace de una sola vez con barro apisonado en un molde (tapial) y después secado al sol.
+- **Porra:** Palo con una bola o cabeza gruesa y redondeada en uno de sus extremos, que se usa como arma para golpear.
 - **:**
 - **:**
 - **:**
