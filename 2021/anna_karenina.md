@@ -58,6 +58,9 @@
 - Familia Karenin:
   - Alexiéi Alexándrovich Karenin
     - Trabajo; Uno de los jefes del ministerio de justicia.
+    - Siempre está ocupado trabajando, apenas tiene tiempo para su familia.
+    - Es egocéntrico.
+    - Leía siempre por la noche, le gusta la política, filosofía y religión. Era completamente ajeno al arte.
   - Anna Arkadièvna:
     - Hermana de Stiva
     - Seriozha - hijo
@@ -66,7 +69,8 @@
     - Doncella: Ánnushka
     - Lidia Ivánovna - samovar:
       - Samovar por su perpetuo estado de agitación.
-      - Amiga de Karenin, que a causa de su marido, Anna se veía obligada a frecuentar.
+      - Amiga de Karenin, que a causa de su marido, Anna se veía obligada a frecuentar. Sin embargo, siente por ella sincero afecto.
+      - Mujer gruesa y robusta, de color amarillento y enfermizo y ojos negros y pensativos.
 - Konstantín Dimítrich Lievin:
   - La familia es de un antiguo linaje aristocrático en Moscú. Cercana a la familia Scherbatski, la concideraba perfecta y le atribuía los más noble sentimientos y las perfecciones más ideales.
   - Amigo de Oblonski desde la adolescencia
@@ -108,6 +112,10 @@
   - Nikolái Scherbatski - Primo de Kiti
   - m-lle Linon - Institutriz
 - Vronski
+  - Petritski - Pier:
+    - Mejor amigo
+    - Teniente de origen modesto, no tenía más que deudas.
+    - Pareja de la baronesa Shilton
   - Guapo, rico, aristócrata, bien relacionado e inteligente.
   - Hijo del conde Kiril Ivánovich
   - Madre: Aliosha - No profesaba amor ni respeto a su madre, pero se comportaba respetuoso y sumiso porque era lo que se esperaba de él.
