@@ -18,11 +18,13 @@
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
+- **Auscultar:** 1 - Intentar averiguar el pensamiento de otra persona o su disposición acerca de un asunto. 2 - Escuchar los sonidos que se producen en el interior de un organismo humano o animal, especialmente en la cavidad torácica y abdominal, mediante los instrumentos adecuados o sin ellos.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
 - **Azogar:** Cubrir con azogue cristales u otros objetos. EJ: _El mar como un vasto cristal azogado / refleja la lámina de un cielo de cinc_. Contraer la enfermedad producida por la absorción de los vapores del azogue, la cual produce un temblor continuo.
 
 ## B
 
+- **Barbián:** Que es desenvuelto y simpático.
 ## C
 
 - **Caftán:** Prenda de vestir de origen oriental, generalmente de seda y con colores vivos, que cubre hasta la mitad de la pierna, tiene mangas cortas y está abierta por la parte delantera superior.
@@ -77,6 +79,7 @@
 
 ## I
 
+- **Ignominia:** Ofensa grave que sufre el honor o la dignidad de una persona.
 - **Imberbe:** Que no tiene pelo en la barba o tiene muy poco, en especial si es joven.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
