@@ -8,15 +8,15 @@
 - **Acémila:** Mula o macho que se usa para llevar carga.
 - **Adusta:** Que es excesivamente rígido, áspero y desapacible en el trato.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
+
+  ![Gallinago](images/B00_02.png)
+
 - **Alforfón - Trigo Sacarreno:** El alforfón o trigo sarraceno es una planta anual herbácea de la familia Polygonaceae cultivada por sus granos para su consumo humano y animal. Se considera popularmente un cereal, aunque realmente no lo sea, ya que, aunque se parece, no pertenece a la familia de las gramíneas, sino a las poligonáceas.
 
   ![Alfarfón](images/B00_0B.png)
 
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
-
-  ![Gallinago](images/B00_02.png)
-
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
 - **Azogar:** Cubrir con azogue cristales u otros objetos. EJ: _El mar como un vasto cristal azogado / refleja la lámina de un cielo de cinc_. Contraer la enfermedad producida por la absorción de los vapores del azogue, la cual produce un temblor continuo.
