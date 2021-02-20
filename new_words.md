@@ -75,12 +75,14 @@
 
 ## H
 
+- **Hastío:** Aburrimiento muy grande.
 - **Hilvanar:** Hacer algo de manera provisional y esquemática.
 
 ## I
 
 - **Ignominia:** Ofensa grave que sufre el honor o la dignidad de una persona.
 - **Imberbe:** Que no tiene pelo en la barba o tiene muy poco, en especial si es joven.
+- **Impávido:** 1 - Que hace frente a una situación de peligro o riesgo sin dejarse dominar por el miedo o la angustia. 2 - Que no se altera, perturba o muestra emoción alguna ante una impresión o estímulo externo que normalmente producen turbación, desencadenan una emoción o inducen a determinada acción.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
 - **Inefable:** Que no puede ser dicho, explicado o descrito con palabras, generalmente por tener cualidades excelsas o por ser muy sutil o difuso.
@@ -139,6 +141,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Porra:** Palo con una bola o cabeza gruesa y redondeada en uno de sus extremos, que se usa como arma para golpear.
 - **Postín:** Distinción o elegancia de las personas ricas.
+- **Postrernarse:** Arrodillarse en señal de respeto.
 - **Proindiviso:**  El derecho parcial de una persona sobre una propiedad. La razón es que comparte la titularidad con una o más personas, por lo que se considera una comunidad de bienes o copropiedad.
 - **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
 - **Pueril:** 1 - Que es propio de los niños pequeños o tiene alguna característica propia de ellos. 2 - Que tiene poco valor, poco interés o poca importancia.

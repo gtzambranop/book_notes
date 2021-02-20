@@ -39,7 +39,7 @@
     - Apariencia: Cabello rizado negro, cutis sonrosado.
   - Daria Alexándrovna - Dolly - Masha
     - Esposa de Stiva
-    - 7 hijos - 5 viven
+    - 7 hijos - 5 viven, durnate la historia tiene otro hijo.
     - 33 años
   - Matviéi
     - Ayudante de Stiva, casi amigo.
