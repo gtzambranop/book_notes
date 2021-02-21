@@ -18,6 +18,7 @@
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
+- **Asiduo-(a):** Que realiza con constancia y con cierta continuidad o frecuencia alguna cosa.
 - **Auscultar:** 1 - Intentar averiguar el pensamiento de otra persona o su disposición acerca de un asunto. 2 - Escuchar los sonidos que se producen en el interior de un organismo humano o animal, especialmente en la cavidad torácica y abdominal, mediante los instrumentos adecuados o sin ellos.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
 - **Azogar:** Cubrir con azogue cristales u otros objetos. EJ: _El mar como un vasto cristal azogado / refleja la lámina de un cielo de cinc_. Contraer la enfermedad producida por la absorción de los vapores del azogue, la cual produce un temblor continuo.
@@ -25,6 +26,7 @@
 ## B
 
 - **Barbián:** Que es desenvuelto y simpático.
+- **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
 ## C
 
 - **Caftán:** Prenda de vestir de origen oriental, generalmente de seda y con colores vivos, que cubre hasta la mitad de la pierna, tiene mangas cortas y está abierta por la parte delantera superior.
@@ -106,13 +108,19 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## L
 
 - **Labriego:** Persona que tiene por oficio trabajar y cultivar la tierra y vive en el medio rural.
+- **Lacayo::** 1 - Criado uniformado que acompañaba a su señor para prestarle ciertos servicios, como abrirle y cerrarle la puerta del automóvil cuando este viajaba. 2 - Soldado de a pie que, junto con otro, acompañaba a un caballero en la guerra e iba armado con una ballesta.
 - **Lánguido:** Que carece de fuerza, vigor o lozanía.
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
 - **LLaneza:** Manera sencilla, clara de hacer o decir las cosas.
 
 ## M
 
+- **Malediciencia:** Acción de maldecir o difamar a alguien.
 - **Marmórea:** Que tiene la dureza, el color u otra característica propia del mármol.
+- **Mayólica:** Es el nombre que se da desde el Renacimiento a un tipo de decoración cerámica sobre loza estannífera, con un esmalte de plomo opacificado con estaño, posteriormente se decora los diversos motivos con óxidos sobre la anterior base.
+
+  ![Mayólica](images/B00_10.png)
+
 - **Mendrugo:** Pedazo de pan duro o desechado, especialmente el sobrante.
 - **Menester:** 1  Falta o necesidad de algo. 2 - Ser preciso o necesario.
 - **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
@@ -133,7 +141,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Palimpsesto:** Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto primitivo para volver a escribir un nuevo texto.
 - **Paneslavismo:** El paneslavismo es un movimiento político y cultural, nacido de una ideología nacionalista, surgido en el siglo XIX con el objetivo de promover la unión cultural, religiosa y política, así como la mutua cooperación, entre todos los países eslavos de Europa.
 - **Párvulo:** Niño de corta edad, que no ha alcanzado la edad escolar, especialmente el que asiste a un centro o a una clase de educación preescolar.
+- **Parlamentar:** Discutir sobre un asunto o sobre un problema con la intención de llegar a un acuerdo o de encontrar una solución.
 - **Pasmo:** Asombro o sorpresa exagerada que impide a una persona hablar o reaccionar.
+- **Pecuniario:** Del dinero o relacionado con el dinero.
 - **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
 
   ![Pelliza](images/B00_0A.png)
@@ -166,10 +176,15 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## S
 
+- **Samovar:** El samovar es un recipiente metálico en forma de cafetera alta, dotado de una chimenea interior con infiernillo, y sirve para hacer té. Con el paso de los siglos, el samovar se ha convertido en un icono de la cultura rusa del té.
+
+  ![Samovar](images/B00_0F.png)
+
 - **Schi:** Sopa típica rusa a base de col.
 
   ![Schi](images/B00_04.png)
 
+- **Séquito:** Grupo de personas que acompaña a un lugar a otra más importante, especialmente en una ceremonia o en un acto solemne.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
 - **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
 - **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.

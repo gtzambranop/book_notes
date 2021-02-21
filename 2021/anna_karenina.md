@@ -71,6 +71,23 @@
       - Samovar por su perpetuo estado de agitación.
       - Amiga de Karenin, que a causa de su marido, Anna se veía obligada a frecuentar. Sin embargo, siente por ella sincero afecto.
       - Mujer gruesa y robusta, de color amarillento y enfermizo y ojos negros y pensativos.
+    - Círculos sociales en los que está involucrada:
+
+      1. Colegas y subordinados del marido:
+        - Al inicio Anna los respetaba.
+        - Se relaciona con ellos lo menos posible.
+      2. Mujeres viejas y hombres inteligentes y ambiciosos:
+        - El centro de este era la condeza Lidia.
+        - A Alexiéi le agrada este círculo
+        - Luego del regreso de Moscú, se le hizo insoportable porque los concideró, al igual que ella, personas dadas al arte del disimulo y el fingimiento.
+      3. Mundo de los bailes, recepciones y vestidos lujosos.
+        - Luego de regresar a Moscú, frecuenta más este círculo, pues allí encontraba a Vronski.
+        - Vínculo: Betsi tverskaia
+          - Intenta alejar a Anna del círculo de la condeza Lidia.
+          - Vrónskaia de nacimiento.
+          - Prima hermana de Vronski.
+          - Eesposa de uno de sus primos.
+          - Anna y Vronski se encontraban en la casa de Betsi
 - Konstantín Dimítrich Lievin:
   - La familia es de un antiguo linaje aristocrático en Moscú. Cercana a la familia Scherbatski, la concideraba perfecta y le atribuía los más noble sentimientos y las perfecciones más ideales.
   - Amigo de Oblonski desde la adolescencia
