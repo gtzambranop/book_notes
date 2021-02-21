@@ -129,6 +129,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## P
 
+- **Palimpsesto:** Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto primitivo para volver a escribir un nuevo texto.
 - **Paneslavismo:** El paneslavismo es un movimiento político y cultural, nacido de una ideología nacionalista, surgido en el siglo XIX con el objetivo de promover la unión cultural, religiosa y política, así como la mutua cooperación, entre todos los países eslavos de Europa.
 - **Pasmo:** Asombro o sorpresa exagerada que impide a una persona hablar o reaccionar.
 - **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
@@ -177,6 +178,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Tez:** Piel de la cara de una persona.
 - **Trajinar:** Moverse mucho una persona o andar de un sitio para otro.
 - **Trascender:** Hacer sentir sus efectos o tener consecuencias en lugar o medio distinto de aquel en que se produce.
+- **Tubo neumático:** Son sistemas en los cuales contenedores cilíndricos son propulsados a través de una red de tubos por medio de aire comprimido o por medio de vacío. Son usados para transportar objetos sólidos, al contrario de las tuberías comunes, que transportan gases o fluidos.
+
+![Tubo neumático]
 
 ## U
 
