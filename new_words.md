@@ -86,6 +86,7 @@
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
 - **Inefable:** Que no puede ser dicho, explicado o descrito con palabras, generalmente por tener cualidades excelsas o por ser muy sutil o difuso.
+- **Infimo:** Que es muy bajo en cantidad, calidad o importancia.
 - **In-folio:** In-folio o infolio (del latín in folio, en hoja) o, abreviado como in-2º, es un término técnico utilizado en encuadernación que indica el tamaño de un libro, donde la hoja impresa se ha doblado sólo una vez sobre el lado menor, por lo que da lugar a dos folios que equivalen a cuatro páginas. <br>
 Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-octavo o in-8º; si en 16, in-decimosexto o in-16º; si en 32, in-32º y si en 64, in-64º.
 
@@ -131,6 +132,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Palimpsesto:** Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto primitivo para volver a escribir un nuevo texto.
 - **Paneslavismo:** El paneslavismo es un movimiento político y cultural, nacido de una ideología nacionalista, surgido en el siglo XIX con el objetivo de promover la unión cultural, religiosa y política, así como la mutua cooperación, entre todos los países eslavos de Europa.
+- **Párvulo:** Niño de corta edad, que no ha alcanzado la edad escolar, especialmente el que asiste a un centro o a una clase de educación preescolar.
 - **Pasmo:** Asombro o sorpresa exagerada que impide a una persona hablar o reaccionar.
 - **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
 
@@ -153,6 +155,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Ralo:** Que es poco espeso o poblado.
 - **Resongar:** Emitir sonidos no articulados o palabras murmuradas entre dientes en señal de enfado o desagrado.
+- **Rezumar:** Salir [un líquido] de un cuerpo o del recipiente en que está contenido, por transpiración o a través de sus rendijas.
 - **Rodaballo:** El rodaballo o turbot es una especie de pez pleuronectiforme de la familia Scophthalmidae.
 
   ![Rodabballo](images/B00_03.png)
