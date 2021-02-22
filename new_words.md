@@ -11,10 +11,12 @@
 
   ![Gallinago](images/B00_02.png)
 
+- **Aludir:** Referirse a una persona o una cosa sin nombrarlos de forma expresa.
 - **Alforfón - Trigo Sacarreno:** El alforfón o trigo sarraceno es una planta anual herbácea de la familia Polygonaceae cultivada por sus granos para su consumo humano y animal. Se considera popularmente un cereal, aunque realmente no lo sea, ya que, aunque se parece, no pertenece a la familia de las gramíneas, sino a las poligonáceas.
 
   ![Alfarfón](images/B00_0B.png)
 
+- **Aliciente:** Aspecto positivo de algo, que sirve de estímulo y mueve a una persona a realizar una acción o a actuar de determinada manera.
 - **Añorar:** Recordar con pena a alguien o algo ausente, lejano, perdido o del que se ha sido privado.
 - **Aquilina - (o):** Que es aguileño
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
@@ -59,6 +61,7 @@
 
 ## E
 
+- **Encabritar:** 1 - Provocar agitación o excitación en algo o a alguien. 2 - Ponerse [un caballo] sobre las patas traseras, levantando las delanteras.
 - **Eremita:** Persona que vive sola en un lugar deshabitado, especialmente para dedicar su vida a la oración y al sacrificio.
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
 
@@ -96,6 +99,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
   ![in-folio](images/B00_0D.png)
 
+- **Inocular:** Introducir en el organismo por medios artificiales el virus o la bacteria de una enfermedad contagiosa.
 - **Intemperancia:** Falta de templanza o moderación.
 - **Irascible:** Que es propenso a irritarse.
 
@@ -181,6 +185,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## S
 
 - **Sacarina:** es un aditivo edulcorante artificial que no contiene calorías. Fue descubierto en 1879, es entre 300 y 500 veces más dulce que la sacarosa y se utiliza en alimentos y bebidas.
+- **Sacristán:** Persona que cuida de los objetos guardados en la sacristía y de la limpieza de la iglesia; también puede ayudar al sacerdote en el altar.
 - **Samovar:** El samovar es un recipiente metálico en forma de cafetera alta, dotado de una chimenea interior con infiernillo, y sirve para hacer té. Con el paso de los siglos, el samovar se ha convertido en un icono de la cultura rusa del té.
 
   ![Samovar](images/B00_0F.png)

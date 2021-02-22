@@ -61,6 +61,7 @@
     - Siempre está ocupado trabajando, apenas tiene tiempo para su familia.
     - Es egocéntrico.
     - Leía siempre por la noche, le gusta la política, filosofía y religión. Era completamente ajeno al arte.
+    - Creía que Anna lo amaba y confiaba en ella pues creía que este era su deber.
   - Anna Arkadièvna:
     - Hermana de Stiva
     - Seriozha - hijo
@@ -140,8 +141,13 @@
   - Aprecia a Kiti pero no piensa en casarse con ella. Le gusta la familia Scherbatski porque tiene un aura pura y familiar.
   - Mediana estatura, bien proporcionado, moreno, rostro hermoso de rasgos pasmosamente serenos. Cabello corto negro y mentón rasurado.
 - Yegórushka Korsunski - Apuesto caballero, rey de los bailes.
+- Princesa Miagkaia:
+  - Excesiva franqueza y brusquedad en el trato
+  - Aprecia a Anna y cree que Alexiéi es un tonto.
 ## Frases
 
 - **Lievin:** Bajó, pues, a la pista, procurando no mirarla al rostro, pues su rostro era como el sol. Pero, como pasa con el sol, él no tenía que mirarla para verla.
 - **Lievin:** No, no nos abandonarás, no podrás huir de ti mismo, seguirás siendo lo que has sido siempre, con tus dudas, tu eterno descontento de ti mismo, tus vanas tentativas de reforma, tus caidas, tu eterna esperanza de una felicidad que se te escurre y que no está hecha para ti.
 - **Anna:** Al apearse el tren, el primer rostro que percibió fue el de su marido. _"Dios mío, ¿por qué se han vuelto tan largas sus orejas?"_, se dijo al observar su distinguida pero fría figura, cuyo sombrero parecía estar apoyado sobre los salientes cartílagos de las ojeras. Él fue a su encuentro y la miró fijamente con sus grandes ojos fatigados, conservando en sus labios su habitual sonrisa irónica. Anna sintió que se le comprimía el corazón. ¿Había esperado, quizá, hallarlo diferente de lo que era?Su fría, severa mirada, la había conturbado. Sentía ahora que su conciencia le reprochaba toda la hipocresía, toda la falsedad de las relaciones con su marido. Ciertamente, ese sentimiento se hallaba desde hacía mucho tiempo en lo más profundo de su ser, pero era la primera vez que se manifestaba con tan dolorosa sinseridad.
+- **Anna:** Yo pienso - Contestó Anna, jugueteando con uno de sus guantes - que si hay tantas opiniones como cabezas, hay igualmente tantas maneras de amar como corazones.
+- **Alexiéi:** Consideraba que los celos eran una ofensa a la esposa, y que el esposo ha de conservar siempre su respeto, teniendo plena confianza en ella.
