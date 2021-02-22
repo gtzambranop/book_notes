@@ -15,6 +15,8 @@
 
   ![Alfarfón](images/B00_0B.png)
 
+- **Añorar:** Recordar con pena a alguien o algo ausente, lejano, perdido o del que se ha sido privado.
+- **Aquilina - (o):** Que es aguileño
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
@@ -99,6 +101,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## J
 
+- **Juerga:** Diversión o fiesta animada, bulliciosa y en la que a veces se cometen excesos.
 ## K
 
 - **Kasha:** Plato típico ruso. Especie de gachas de arroz, sémola, alforfón o cebada perlada.
@@ -134,6 +137,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Oblongo:** Que es más largo que ancho o que es más largo de lo que es habitual entre las cosas de su mismo género.
 - **Oprobio:** Deshonra o vergüenza públicas.
+- **Ortodoxia:** Conformidad con los principios de una doctrina o con las normas o prácticas tradicionales, aceptadas por la mayoría como las más adecuadas en un determinado ámbito.
 - **Osado:** 1 - Que se atreve a afrontar situaciones difíciles o peligrosas con valentía y entereza. 2 - Que habla u obra con atrevimiento y descaro.
 
 ## P
@@ -176,6 +180,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## S
 
+- **Sacarina:** es un aditivo edulcorante artificial que no contiene calorías. Fue descubierto en 1879, es entre 300 y 500 veces más dulce que la sacarosa y se utiliza en alimentos y bebidas.
 - **Samovar:** El samovar es un recipiente metálico en forma de cafetera alta, dotado de una chimenea interior con infiernillo, y sirve para hacer té. Con el paso de los siglos, el samovar se ha convertido en un icono de la cultura rusa del té.
 
   ![Samovar](images/B00_0F.png)
