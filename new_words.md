@@ -20,6 +20,7 @@
 - **Añorar:** Recordar con pena a alguien o algo ausente, lejano, perdido o del que se ha sido privado.
 - **Aquilina - (o):** Que es aguileño
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
+- **Arrobamiento:** Estado de la persona que siente un placer, una admiración o una alegría tan intensos que no puede pensar ni sentir nada más.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
 - **Asiduo-(a):** Que realiza con constancia y con cierta continuidad o frecuencia alguna cosa.
@@ -30,10 +31,28 @@
 ## B
 
 - **Barbián:** Que es desenvuelto y simpático.
+- **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
 - **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
+- **Bruma:** La bruma es un fenómeno atmosférico, consistente en la suspensión de partículas diminutas de agua u otra materia higroscópica que limitan la visibilidad. Se llama así particularmente a la niebla que se forma sobre el mar.
+
+  ![Bruma](images/B00_17.png)
+
+- **Bocio:** Crecimiento anormal de la glándula con forma de mariposa ubicada debajo de la nuez de Adán (tiroides).
+El bocio generalmente aparece como resultado de una deficiencia de yodo o una inflamación de la glándula tiroides.
+
+  ![Bocio](images/B00_15.png)
+
+- **Borla:** Es la terminación de un grupo de hilos trenzados o fruncidos. En uno de sus extremos, sobresale un cordón holgado, del que cuelga, y en el otro costado tiene flecos. Habitualmente, las borlas son elementos decorativos, y suelen encontrarse en el dobladillo de algunas prendas de vestir y de cortinas.
+
+  ![Borla](images/B00_19.png)
+
 ## C
 
 - **Caftán:** Prenda de vestir de origen oriental, generalmente de seda y con colores vivos, que cubre hasta la mitad de la pierna, tiene mangas cortas y está abierta por la parte delantera superior.
+- **Calesa:** Coche de paseo tirado por caballos, de dos o cuatro ruedas, con la caja o armazón abierta por delante y con cubierta o techo plegable.
+
+  ![Calesa](images/B00_18.png)
+
 - **Campón:** El capón es un gallo castrado a la edad de cuatro meses aproximadamente, antes de comenzar el proceso de engorde. Con ello se consigue mayor tamaño y peso que los gallos camperos normales, y su carne es más fina.
 
   ![Schi](images/B00_07.png)
@@ -57,19 +76,30 @@
 - **Decimónico:** Del siglo XIX o relacionado con él.
 - **Dilapidar:** Malgastar el dinero o los bienes.
 - **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
+- **Diván:** Un diván es un tipo de mueble para sentarse, similar al sofá. Originalmente, en Oriente, un diván era un asiento largo formado por un colchón puesto contra un lado de la estancia, bien en el suelo, bien sobre una estructura o un marco levantado, con cojines para apoyarse.
+
+  ![Diván](images/B00_1A.png)
+
 - **Doncella:** Mujer que, a cambio de una retribución económica, realiza los trabajos domésticos de una casa, no relacionados con la cocina, o que sirve a la señora de la casa.
+- **Duela:** Tablilla con que se forman las paredes curvas de un tonel, barril o cuba.
 
 ## E
+
+- **Enagua:** Una enagua ​ es una prenda de ropa interior femenina. Se usa más en plural.​ También se conocen como combinación.​ La enagua es una falda usada como ropa interior pero sobre ropa interior íntima.
+
+  ![Enagua](images/B00_13.png)
 
 - **Encabritar:** 1 - Provocar agitación o excitación en algo o a alguien. 2 - Ponerse [un caballo] sobre las patas traseras, levantando las delanteras.
 - **Eremita:** Persona que vive sola en un lugar deshabitado, especialmente para dedicar su vida a la oración y al sacrificio.
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
+- **Exámine:** 1 - Que está sin vida o no da señales de vida. 2 - Que está muy debilitado o agotado.
 
 ## F
 
 - **Fámulo:** Criado o sirviente de un convento u otro medio eclesiástico. Criado o sirviente doméstico.
 - **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
 - **Fullería:** Trampa en el juego o astucia con que se pretende engañar.
+- **Fustigar:** 1 - Dar golpes o azotar con un instrumento, especialmente al caballo con la fusta para estimularlo. 2 - Criticar o reprender con dureza a una persona o una cosa.
 - **Fútil:** Que carece de importancia o interés por su falta de fundamento.
 
 ## G
@@ -79,11 +109,17 @@
   ![Gorguera](images/B00_08.png)
 
 - **Gozne:** Bisagra, especialmente la de una puerta o ventana.
+- **Guisa:** Modo, manera.
 
 ## H
 
+- **Hacina:** Conjunto de haces de mies colocados unos sobre otros formando un montón.
+
+  ![hacina](images/B00_16.png)
+
 - **Hastío:** Aburrimiento muy grande.
 - **Hilvanar:** Hacer algo de manera provisional y esquemática.
+- **Hirsuto:** Que es áspero, duro y tieso.
 
 ## I
 
@@ -105,6 +141,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## J
 
+- **Jovial:** Que es alegre de modo que resulta festivo y apacible.
 - **Juerga:** Diversión o fiesta animada, bulliciosa y en la que a veces se cometen excesos.
 ## K
 
@@ -119,10 +156,15 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Lánguido:** Que carece de fuerza, vigor o lozanía.
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
 - **LLaneza:** Manera sencilla, clara de hacer o decir las cosas.
+- **Lóbrego:** 1 - Que es oscuro o sombrío e inspira temor o tristeza. 2 - Que es confuso o incierto.
 
 ## M
 
 - **Malediciencia:** Acción de maldecir o difamar a alguien.
+- **Mamaliga:** La mămăligă, pulicka en húngaro es un pan elaborado con harina de maíz, sémola consistente en una masa de color amarillo. Es muy típica en la cocina rumana, y se asemeja a la polenta italiana. La mămăliga es un alimento tradicional de Rumanía y Moldavia.
+
+  ![Mamaliga](images/B00_12.png)
+
 - **Marmórea:** Que tiene la dureza, el color u otra característica propia del mármol.
 - **Mayólica:** Es el nombre que se da desde el Renacimiento a un tipo de decoración cerámica sobre loza estannífera, con un esmalte de plomo opacificado con estaño, posteriormente se decora los diversos motivos con óxidos sobre la anterior base.
 
@@ -130,6 +172,8 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Mendrugo:** Pedazo de pan duro o desechado, especialmente el sobrante.
 - **Menester:** 1  Falta o necesidad de algo. 2 - Ser preciso o necesario.
+- **Mies:** Cereal que ya está maduro para ser recolectado.
+- **Mieses:** Terrenos en los que se cultivan cereales.
 - **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
 - **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
 
@@ -156,6 +200,12 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
   ![Pelliza](images/B00_0A.png)
 
+- **Peñasco:** Roca de mayor tamaño y altura que la peña, situada generalmente en un lugar alto.
+- **Persignar:** Hacer con la punta de los dedos de la mano, especialmente con los dedos índice y pulgar, tres cruces, la primera en la frente, la segunda en la boca y la tercera en el pecho.
+
+![Persignar](images/B00_14.png)
+
+- **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
   ![Plegadera](images/B00_0C.png)
@@ -163,6 +213,11 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Porra:** Palo con una bola o cabeza gruesa y redondeada en uno de sus extremos, que se usa como arma para golpear.
 - **Postín:** Distinción o elegancia de las personas ricas.
 - **Postrernarse:** Arrodillarse en señal de respeto.
+- **Potaje:** Guiso caldoso que se prepara con legumbres y verduras o arroz al que en ocasiones se le añade trozos de algún tipo de carne o de embutido; es un plato típico de diversas regiones españolas, variando en cada una el tipo y cantidad de ingredientes.
+
+  ![Potaje](images/B00_11.png)
+
+- **Presteza:** Habilidad y rapidez para hacer o decir una cosa.
 - **Proindiviso:**  El derecho parcial de una persona sobre una propiedad. La razón es que comparte la titularidad con una o más personas, por lo que se considera una comunidad de bienes o copropiedad.
 - **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
 - **Pueril:** 1 - Que es propio de los niños pequeños o tiene alguna característica propia de ellos. 2 - Que tiene poco valor, poco interés o poca importancia.
@@ -173,6 +228,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Ralo:** Que es poco espeso o poblado.
 - **Resongar:** Emitir sonidos no articulados o palabras murmuradas entre dientes en señal de enfado o desagrado.
+- **Reticencia:** Hecho de insinuar o no decir directamente algo, generalmente con intención maliciosa.
 - **Rezumar:** Salir [un líquido] de un cuerpo o del recipiente en que está contenido, por transpiración o a través de sus rendijas.
 - **Rodaballo:** El rodaballo o turbot es una especie de pez pleuronectiforme de la familia Scophthalmidae.
 
@@ -195,6 +251,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
   ![Schi](images/B00_04.png)
 
 - **Séquito:** Grupo de personas que acompaña a un lugar a otra más importante, especialmente en una ceremonia o en un acto solemne.
+- **Sinuoso:** 1 - Que tiene recodos, curvas y ondulaciones irregulares y en distintos sentidos. 2 - Que es poco claro y pretende ocultar la verdadera intención o propósito de sus acciones, objetivos o manifestaciones.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
 - **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
 - **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.
@@ -216,6 +273,8 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## V
 
+- **Vaho:** Vapor que despiden los cuerpos en determinadas circunstancias.
+- **Vahos:** Terapia para el tratamiento de resfríos y enfermedades del aparato respiratorio que consiste en respirar el vapor que despide una sustancia al hervirla.
 - **Vaticinio:** Acción de anunciar un hecho futuro a partir de ciertos indicios o por simple intuición.
 - **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
 

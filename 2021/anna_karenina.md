@@ -2,6 +2,7 @@
 
 - **Autor:** León Tolstói
 - Edición de Josefina Pérez Sancristán
+- **Páginas:** 992
 - **Inicio de Lectura:** 09-02-2021
 - **Fin de Lectura:**
 
@@ -17,6 +18,7 @@
 - **Fucsia:** Lievin
 - **Amarillo:** Kiti.
 - **Naranja:** Vronski
+- **Azul:** Anna
 - **Verde:** Otros:
   - Stiva
 
