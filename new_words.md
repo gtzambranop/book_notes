@@ -65,6 +65,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
 - **Conturbar:** Alterar el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía.
+- **Crencha:** Línea que se forma en el peinado al separar los cabellos con el peine, echando una parte de ellos hacia un lado y otra hacia el opuesto.
 - **Cupé:** Cupé​​ o coupé (del francés couper, «cortar») es un tipo de carrocería de automóvil de dos o tres volúmenes y dos puertas laterales.
 
   ![Cupé](images/B00_01.png)
@@ -92,12 +93,17 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Encabritar:** 1 - Provocar agitación o excitación en algo o a alguien. 2 - Ponerse [un caballo] sobre las patas traseras, levantando las delanteras.
 - **Eremita:** Persona que vive sola en un lugar deshabitado, especialmente para dedicar su vida a la oración y al sacrificio.
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
+- **Estío:** Verano.
 - **Exámine:** 1 - Que está sin vida o no da señales de vida. 2 - Que está muy debilitado o agotado.
 
 ## F
 
 - **Fámulo:** Criado o sirviente de un convento u otro medio eclesiástico. Criado o sirviente doméstico.
 - **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
+- **Frac:** El frac es un traje masculino de tipo formal que constituye el tipo de vestuario más formal para el hombre en celebraciones nocturnas.
+
+  ![Frac](images/B00_1B.png)
+
 - **Fullería:** Trampa en el juego o astucia con que se pretende engañar.
 - **Fustigar:** 1 - Dar golpes o azotar con un instrumento, especialmente al caballo con la fusta para estimularlo. 2 - Criticar o reprender con dureza a una persona o una cosa.
 - **Fútil:** Que carece de importancia o interés por su falta de fundamento.
