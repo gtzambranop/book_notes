@@ -48,7 +48,15 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 ## C
 
+- **Cabestrillo:** Es un dispositivo utilizado para apoyar y mantener quieta (inmovilizar) una parte del cuerpo lesionada. Los cabestrillos se pueden utilizar para muchas lesiones diferentes, pero se emplean con mayor frecuencia cuando se presenta un hueso roto (fractura) o una dislocación de un brazo o un hombro.
+
+  ![Cabestrillo](images/B00_1E.png)
+
 - **Caftán:** Prenda de vestir de origen oriental, generalmente de seda y con colores vivos, que cubre hasta la mitad de la pierna, tiene mangas cortas y está abierta por la parte delantera superior.
+- **Caja de rapé:** on englobadas todas las series de cajitas primorosamente trabajadas en metal, porcelana u otra materia, que se fabricaron sobre todo durante el siglo XVIII.
+
+  ![Caja de rapé](images/B00_1D.png)
+
 - **Calesa:** Coche de paseo tirado por caballos, de dos o cuatro ruedas, con la caja o armazón abierta por delante y con cubierta o techo plegable.
 
   ![Calesa](images/B00_18.png)
@@ -81,6 +89,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
   ![Diván](images/B00_1A.png)
 
+- **Deferencia:** 1 - Adhesión con la opinión o el comportamiento de una persona por respeto hacia ella o por excesiva moderación. 2 - Muestra de respeto y cortesía.
 - **Doncella:** Mujer que, a cambio de una retribución económica, realiza los trabajos domésticos de una casa, no relacionados con la cocina, o que sirve a la señora de la casa.
 - **Duela:** Tablilla con que se forman las paredes curvas de un tonel, barril o cuba.
 
@@ -104,6 +113,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
   ![Frac](images/B00_1B.png)
 
+- **Frailecillos:** Fratercula es un género de aves caradriformes de la familia Alcidae conocidos vulgarmente como frailecillos.​​ Son propios del Holártico. Los frailecillos tienen con un pico de colores brillantes durante la temporada de cría. Son aves marinas que se alimentan principalmente mediante buceo bajo el agua.
+
+  ![Frailecillos](images/B00_1C.png)
+
 - **Fullería:** Trampa en el juego o astucia con que se pretende engañar.
 - **Fustigar:** 1 - Dar golpes o azotar con un instrumento, especialmente al caballo con la fusta para estimularlo. 2 - Criticar o reprender con dureza a una persona o una cosa.
 - **Fútil:** Que carece de importancia o interés por su falta de fundamento.
@@ -124,12 +137,14 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
   ![hacina](images/B00_16.png)
 
 - **Hastío:** Aburrimiento muy grande.
+- **Hemisferio:** Mitad de una esfera dividida por un plano que pasa por su centro.
 - **Hilvanar:** Hacer algo de manera provisional y esquemática.
 - **Hirsuto:** Que es áspero, duro y tieso.
 
 ## I
 
 - **Ignominia:** Ofensa grave que sufre el honor o la dignidad de una persona.
+- **Ilación:** Trabazón o nexo con que se siguen las partes de un discurso, un razonamiento, etc.
 - **Imberbe:** Que no tiene pelo en la barba o tiene muy poco, en especial si es joven.
 - **Impávido:** 1 - Que hace frente a una situación de peligro o riesgo sin dejarse dominar por el miedo o la angustia. 2 - Que no se altera, perturba o muestra emoción alguna ante una impresión o estímulo externo que normalmente producen turbación, desencadenan una emoción o inducen a determinada acción.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
@@ -160,6 +175,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Labriego:** Persona que tiene por oficio trabajar y cultivar la tierra y vive en el medio rural.
 - **Lacayo::** 1 - Criado uniformado que acompañaba a su señor para prestarle ciertos servicios, como abrirle y cerrarle la puerta del automóvil cuando este viajaba. 2 - Soldado de a pie que, junto con otro, acompañaba a un caballero en la guerra e iba armado con una ballesta.
 - **Lánguido:** Que carece de fuerza, vigor o lozanía.
+- **Laxo:** 1 - Que está flojo, carece de rigidez o tensión. 2 - Que es poco riguroso o severo en cuestiones de moral.
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
 - **LLaneza:** Manera sencilla, clara de hacer o decir las cosas.
 - **Lóbrego:** 1 - Que es oscuro o sombrío e inspira temor o tristeza. 2 - Que es confuso o incierto.
@@ -201,6 +217,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Párvulo:** Niño de corta edad, que no ha alcanzado la edad escolar, especialmente el que asiste a un centro o a una clase de educación preescolar.
 - **Parlamentar:** Discutir sobre un asunto o sobre un problema con la intención de llegar a un acuerdo o de encontrar una solución.
 - **Pasmo:** Asombro o sorpresa exagerada que impide a una persona hablar o reaccionar.
+- **Patizambo-(a):** Que tiene las piernas torcidas de modo que se juntan las rodillas y se separan los pies.
 - **Pecuniario:** Del dinero o relacionado con el dinero.
 - **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
 
@@ -259,6 +276,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Séquito:** Grupo de personas que acompaña a un lugar a otra más importante, especialmente en una ceremonia o en un acto solemne.
 - **Sinuoso:** 1 - Que tiene recodos, curvas y ondulaciones irregulares y en distintos sentidos. 2 - Que es poco claro y pretende ocultar la verdadera intención o propósito de sus acciones, objetivos o manifestaciones.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
+- **Sórdido:** 1 Que es miserable o sucio. 2 - Que es indecente o malicioso.
 - **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
 - **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.
 
@@ -283,6 +301,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Vahos:** Terapia para el tratamiento de resfríos y enfermedades del aparato respiratorio que consiste en respirar el vapor que despide una sustancia al hervirla.
 - **Vaticinio:** Acción de anunciar un hecho futuro a partir de ciertos indicios o por simple intuición.
 - **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
+- **Vellón:** Conjunto de lana que se le quita a una oveja o a un carnero al esquilarlo.
 
 ## W
 
