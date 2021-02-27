@@ -32,6 +32,7 @@
 
 - **Barbián:** Que es desenvuelto y simpático.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
+- **Berserkers:** Eran guerreros vikingos que combatían semidesnudos, cubiertos de pieles. Entraban en combate bajo cierto trance de perfil psicótico, casi insensibles al dolor, fuertes como osos o toros, y llegaban a morder sus escudos y no había fuego ni acero que los detuviera.​
 - **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
 - **Bruma:** La bruma es un fenómeno atmosférico, consistente en la suspensión de partículas diminutas de agua u otra materia higroscópica que limitan la visibilidad. Se llama así particularmente a la niebla que se forma sobre el mar.
 
@@ -46,6 +47,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
   ![Borla](images/B00_19.png)
 
+- **Boyardo:** Boyardo es el título de los nobles terratenientes eslavos, aunque se emplea sobre todo en el ámbito ruso, serbio, búlgaro y rumano.
 ## C
 
 - **Cabestrillo:** Es un dispositivo utilizado para apoyar y mantener quieta (inmovilizar) una parte del cuerpo lesionada. Los cabestrillos se pueden utilizar para muchas lesiones diferentes, pero se emplean con mayor frecuencia cuando se presenta un hueso roto (fractura) o una dislocación de un brazo o un hombro.
@@ -104,11 +106,13 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
 - **Estío:** Verano.
 - **Exámine:** 1 - Que está sin vida o no da señales de vida. 2 - Que está muy debilitado o agotado.
+- **Explayar:** 1 - Extender la vista o el pensamiento. 2 - Extenderse al hablar de cierta cosa.
 
 ## F
 
 - **Fámulo:** Criado o sirviente de un convento u otro medio eclesiástico. Criado o sirviente doméstico.
 - **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
+- **Follón:** Lío, situación o asunto confuso, desordenado, problemático o difícil de resolver.
 - **Frac:** El frac es un traje masculino de tipo formal que constituye el tipo de vestuario más formal para el hombre en celebraciones nocturnas.
 
   ![Frac](images/B00_1B.png)
@@ -241,7 +245,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
   ![Potaje](images/B00_11.png)
 
 - **Presteza:** Habilidad y rapidez para hacer o decir una cosa.
+- **Profuso-(a):** Que es muy abundante.
 - **Proindiviso:**  El derecho parcial de una persona sobre una propiedad. La razón es que comparte la titularidad con una o más personas, por lo que se considera una comunidad de bienes o copropiedad.
+- **Prosaico:** Que resulta vulgar o carece de emoción o interés o elevación, por estar demasiado relacionado con lo material.
 - **Prosapia:** Ascendencia o linaje de una persona, en especial si es ilustre o aristocrático.
 - **Pueril:** 1 - Que es propio de los niños pequeños o tiene alguna característica propia de ellos. 2 - Que tiene poco valor, poco interés o poca importancia.
 
@@ -269,6 +275,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
   ![Samovar](images/B00_0F.png)
 
+- **Saturnino:** Que es de carácter triste y taciturno.
 - **Schi:** Sopa típica rusa a base de col.
 
   ![Schi](images/B00_04.png)
@@ -282,6 +289,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## T
 
+- **Taciturno:** Que es habitualmente callado o silencioso.
 - **Tafilete:** Piel curtida bruñida y lustrosa mucho más delgada y adaptable que el cordobán; se utiliza para la fabricación de bolsos, guantes, zapatos, etc.
 - **Tapia:** Trozo de pared o muro que se hace de una sola vez con barro apisonado en un molde (tapial) y después secado al sol.
 - **Tez:** Piel de la cara de una persona.
@@ -312,5 +320,6 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## Z
 
 - **Zafio:** Que es inculto y no tiene finura.
+- **Zaguán:** Un zaguán es, en términos genéricos, un espacio cubierto situado en las casas, normalmente junto a la puerta.​ En este sentido, tiene un significado similar a vestíbulo. Es un elemento de paso, sin carácter habitacional.
 - **Zemstvo:** Asambeas o Cámaras autónomas provinciales y municipales, que se crearon en Rusia en tiempos de Alejandro II.
 - **Zíngaro:** Que pertenece a la raza gitana, especialmente la de Europa central.
