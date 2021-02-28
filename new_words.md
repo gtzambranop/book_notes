@@ -3,82 +3,95 @@
 
 - **Abedul:** Árbol de la familia de las betuláceas, de unos diez metros de altura, con hojas pequeñas, puntiagudas y doblemente aserradas o dentadas, que abunda en los montes de Europa.
 
-  ![Abedul](images/B00_09.png)
+  ![Abedul](images/0009.png)
 
 - **Acémila:** Mula o macho que se usa para llevar carga.
+- **Acometer:** Atacar con ímpetu y fuerza contra algo o contra alguien.
 - **Adusta:** Que es excesivamente rígido, áspero y desapacible en el trato.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
 
-  ![Gallinago](images/B00_02.png)
+  ![Gallinago](images/0002.png)
 
 - **Aludir:** Referirse a una persona o una cosa sin nombrarlos de forma expresa.
 - **Alforfón - Trigo Sacarreno:** El alforfón o trigo sarraceno es una planta anual herbácea de la familia Polygonaceae cultivada por sus granos para su consumo humano y animal. Se considera popularmente un cereal, aunque realmente no lo sea, ya que, aunque se parece, no pertenece a la familia de las gramíneas, sino a las poligonáceas.
 
-  ![Alfarfón](images/B00_0B.png)
+  ![Alfarfón](images/000B.png)
 
 - **Aliciente:** Aspecto positivo de algo, que sirve de estímulo y mueve a una persona a realizar una acción o a actuar de determinada manera.
+- **Añinos:** Se llaman añinos o añinas a las pieles con su lana de los corderos que no llegan a un año y que han sido adobadas por los curtidores
 - **Añorar:** Recordar con pena a alguien o algo ausente, lejano, perdido o del que se ha sido privado.
 - **Aquilina - (o):** Que es aguileño
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
+- **Apero:** 1 - Utensilio o herramienta de determinados oficios o actividades, en especial de las faenas agrícolas. 2 - Lugar donde se recogen el ganado y los pastores por la noche.
 - **Arrobamiento:** Estado de la persona que siente un placer, una admiración o una alegría tan intensos que no puede pensar ni sentir nada más.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
 - **Asiduo-(a):** Que realiza con constancia y con cierta continuidad o frecuencia alguna cosa.
 - **Auscultar:** 1 - Intentar averiguar el pensamiento de otra persona o su disposición acerca de un asunto. 2 - Escuchar los sonidos que se producen en el interior de un organismo humano o animal, especialmente en la cavidad torácica y abdominal, mediante los instrumentos adecuados o sin ellos.
+- **Austero:** 1 - Que es sencillo y sin alardes ni adornos superfluos. 2 - Que es estricto en el cumplimiento de las normas morales.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
 - **Azogar:** Cubrir con azogue cristales u otros objetos. EJ: _El mar como un vasto cristal azogado / refleja la lámina de un cielo de cinc_. Contraer la enfermedad producida por la absorción de los vapores del azogue, la cual produce un temblor continuo.
 
 ## B
 
 - **Barbián:** Que es desenvuelto y simpático.
+- **Barbecho:** El barbecho es una técnica de la agricultura por la cual la tierra de cultivo se deja sin sembrar durante uno o varios ciclos vegetativos. Su fin es recuperar y almacenar materia orgánica y humedad junto con evitar patógenos, esperando a que sus ciclos terminen sin poder volver a renovarse debido a la falta de hospederos disponibles.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
 - **Berserkers:** Eran guerreros vikingos que combatían semidesnudos, cubiertos de pieles. Entraban en combate bajo cierto trance de perfil psicótico, casi insensibles al dolor, fuertes como osos o toros, y llegaban a morder sus escudos y no había fuego ni acero que los detuviera.​
 - **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
+- **Brizna:** 1 - Filamento o hebra, especialmente de una planta o de un fruto. 2 - Porción muy pequeña de una cosa material o inmaterial.
 - **Bruma:** La bruma es un fenómeno atmosférico, consistente en la suspensión de partículas diminutas de agua u otra materia higroscópica que limitan la visibilidad. Se llama así particularmente a la niebla que se forma sobre el mar.
 
-  ![Bruma](images/B00_17.png)
+  ![Bruma](images/0017.png)
 
 - **Bocio:** Crecimiento anormal de la glándula con forma de mariposa ubicada debajo de la nuez de Adán (tiroides).
 El bocio generalmente aparece como resultado de una deficiencia de yodo o una inflamación de la glándula tiroides.
 
-  ![Bocio](images/B00_15.png)
+  ![Bocio](images/0015.png)
 
 - **Borla:** Es la terminación de un grupo de hilos trenzados o fruncidos. En uno de sus extremos, sobresale un cordón holgado, del que cuelga, y en el otro costado tiene flecos. Habitualmente, las borlas son elementos decorativos, y suelen encontrarse en el dobladillo de algunas prendas de vestir y de cortinas.
 
-  ![Borla](images/B00_19.png)
+  ![Borla](images/0019.png)
 
 - **Boyardo:** Boyardo es el título de los nobles terratenientes eslavos, aunque se emplea sobre todo en el ámbito ruso, serbio, búlgaro y rumano.
 ## C
 
 - **Cabestrillo:** Es un dispositivo utilizado para apoyar y mantener quieta (inmovilizar) una parte del cuerpo lesionada. Los cabestrillos se pueden utilizar para muchas lesiones diferentes, pero se emplean con mayor frecuencia cuando se presenta un hueso roto (fractura) o una dislocación de un brazo o un hombro.
 
-  ![Cabestrillo](images/B00_1E.png)
+  ![Cabestrillo](images/001E.png)
 
 - **Caftán:** Prenda de vestir de origen oriental, generalmente de seda y con colores vivos, que cubre hasta la mitad de la pierna, tiene mangas cortas y está abierta por la parte delantera superior.
 - **Caja de rapé:** on englobadas todas las series de cajitas primorosamente trabajadas en metal, porcelana u otra materia, que se fabricaron sobre todo durante el siglo XVIII.
 
-  ![Caja de rapé](images/B00_1D.png)
+  ![Caja de rapé](images/001D.png)
 
 - **Calesa:** Coche de paseo tirado por caballos, de dos o cuatro ruedas, con la caja o armazón abierta por delante y con cubierta o techo plegable.
 
-  ![Calesa](images/B00_18.png)
+  ![Calesa](images/0018.png)
 
 - **Campón:** El capón es un gallo castrado a la edad de cuatro meses aproximadamente, antes de comenzar el proceso de engorde. Con ello se consigue mayor tamaño y peso que los gallos camperos normales, y su carne es más fina.
 
-  ![Schi](images/B00_07.png)
+  ![Schi](images/0007.png)
 
 - **Canapé:** Un canapé es un mueble similar a un sofá. Se caracteriza por la presencia de brazos y por ser acolchado en el asiento y en el respaldo. Este mueble surgió durante el reinado de Luis XIV en Francia en el siglo XVII.
 
-  ![Canapé](images/B00_00.png)
+  ![Canapé](images/0000.png)
 
 - **Candor:** 1- Máxima blancura. 2 - Ingenuidad, falta total de malicia y de hipocresía.
+- **Charabán:** Antiguo coche descubierto con dos o más filas de asientos.
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
+- **Confitura:** Se llama confitura al producto resultante de recubrir con un baño de azúcar una fruta o una semilla para hacerla más agradable.
 - **Conturbar:** Alterar el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía.
+- **Corvejón:** Se llama corvejón a la articulación situada en la parte inferior de la pierna y superior de la caña de los cuadrúpedos.
+
+  ![Corvejón](images/0020.png)
+
 - **Crencha:** Línea que se forma en el peinado al separar los cabellos con el peine, echando una parte de ellos hacia un lado y otra hacia el opuesto.
+- **Criba:** La criba es un utensilio que se emplea para limpiar el grano (principalmente del trigo) de la paja, el polvo y otros sólidos no deseados con que se haya mezclado. A esta operación se la llama ahechar.
 - **Cupé:** Cupé​​ o coupé (del francés couper, «cortar») es un tipo de carrocería de automóvil de dos o tres volúmenes y dos puertas laterales.
 
-  ![Cupé](images/B00_01.png)
+  ![Cupé](images/0001.png)
 
 - **Cumplimentar:** Hacer una visita de cortesía a alguien con motivo de algún acontecimiento próspero o adverso.
 
@@ -89,7 +102,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
 - **Diván:** Un diván es un tipo de mueble para sentarse, similar al sofá. Originalmente, en Oriente, un diván era un asiento largo formado por un colchón puesto contra un lado de la estancia, bien en el suelo, bien sobre una estructura o un marco levantado, con cojines para apoyarse.
 
-  ![Diván](images/B00_1A.png)
+  ![Diván](images/001A.png)
 
 - **Deferencia:** 1 - Adhesión con la opinión o el comportamiento de una persona por respeto hacia ella o por excesiva moderación. 2 - Muestra de respeto y cortesía.
 - **Doncella:** Mujer que, a cambio de una retribución económica, realiza los trabajos domésticos de una casa, no relacionados con la cocina, o que sirve a la señora de la casa.
@@ -99,9 +112,11 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 - **Enagua:** Una enagua ​ es una prenda de ropa interior femenina. Se usa más en plural.​ También se conocen como combinación.​ La enagua es una falda usada como ropa interior pero sobre ropa interior íntima.
 
-  ![Enagua](images/B00_13.png)
+  ![Enagua](images/0013.png)
 
 - **Encabritar:** 1 - Provocar agitación o excitación en algo o a alguien. 2 - Ponerse [un caballo] sobre las patas traseras, levantando las delanteras.
+- **Entremés:** Un entremés es una pequeña porción de alimento que se sirve durante las comidas o cenas para picar de ellas mientras se sirven los platos
+- **Empaladiza:** Valla hecha con palos, cañas, estacas, etc., clavados en el suelo y que sirve como defensa o para cercar un terreno.
 - **Eremita:** Persona que vive sola en un lugar deshabitado, especialmente para dedicar su vida a la oración y al sacrificio.
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
 - **Estío:** Verano.
@@ -115,11 +130,11 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Follón:** Lío, situación o asunto confuso, desordenado, problemático o difícil de resolver.
 - **Frac:** El frac es un traje masculino de tipo formal que constituye el tipo de vestuario más formal para el hombre en celebraciones nocturnas.
 
-  ![Frac](images/B00_1B.png)
+  ![Frac](images/001B.png)
 
 - **Frailecillos:** Fratercula es un género de aves caradriformes de la familia Alcidae conocidos vulgarmente como frailecillos.​​ Son propios del Holártico. Los frailecillos tienen con un pico de colores brillantes durante la temporada de cría. Son aves marinas que se alimentan principalmente mediante buceo bajo el agua.
 
-  ![Frailecillos](images/B00_1C.png)
+  ![Frailecillos](images/001C.png)
 
 - **Fullería:** Trampa en el juego o astucia con que se pretende engañar.
 - **Fustigar:** 1 - Dar golpes o azotar con un instrumento, especialmente al caballo con la fusta para estimularlo. 2 - Criticar o reprender con dureza a una persona o una cosa.
@@ -129,7 +144,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 - **Gorguera:** Cuello rígido, redondo, generalmente de lino, holanda o encaje, doblado formando pliegues y ondulaciones, que se usó en Europa occidental los siglos XVI y XVII.
 
-  ![Gorguera](images/B00_08.png)
+  ![Gorguera](images/0008.png)
 
 - **Gozne:** Bisagra, especialmente la de una puerta o ventana.
 - **Guisa:** Modo, manera.
@@ -138,7 +153,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 - **Hacina:** Conjunto de haces de mies colocados unos sobre otros formando un montón.
 
-  ![hacina](images/B00_16.png)
+  ![hacina](images/0016.png)
 
 - **Hastío:** Aburrimiento muy grande.
 - **Hemisferio:** Mitad de una esfera dividida por un plano que pasa por su centro.
@@ -158,7 +173,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **In-folio:** In-folio o infolio (del latín in folio, en hoja) o, abreviado como in-2º, es un término técnico utilizado en encuadernación que indica el tamaño de un libro, donde la hoja impresa se ha doblado sólo una vez sobre el lado menor, por lo que da lugar a dos folios que equivalen a cuatro páginas. <br>
 Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-octavo o in-8º; si en 16, in-decimosexto o in-16º; si en 32, in-32º y si en 64, in-64º.
 
-  ![in-folio](images/B00_0D.png)
+  ![in-folio](images/000D.png)
 
 - **Inocular:** Introducir en el organismo por medios artificiales el virus o la bacteria de una enfermedad contagiosa.
 - **Intemperancia:** Falta de templanza o moderación.
@@ -172,7 +187,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Kasha:** Plato típico ruso. Especie de gachas de arroz, sémola, alforfón o cebada perlada.
 
-  ![Kasha](images/B00_05.png)
+  ![Kasha](images/0005.png)
 
 ## L
 
@@ -189,12 +204,12 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Malediciencia:** Acción de maldecir o difamar a alguien.
 - **Mamaliga:** La mămăligă, pulicka en húngaro es un pan elaborado con harina de maíz, sémola consistente en una masa de color amarillo. Es muy típica en la cocina rumana, y se asemeja a la polenta italiana. La mămăliga es un alimento tradicional de Rumanía y Moldavia.
 
-  ![Mamaliga](images/B00_12.png)
+  ![Mamaliga](images/0012.png)
 
 - **Marmórea:** Que tiene la dureza, el color u otra característica propia del mármol.
 - **Mayólica:** Es el nombre que se da desde el Renacimiento a un tipo de decoración cerámica sobre loza estannífera, con un esmalte de plomo opacificado con estaño, posteriormente se decora los diversos motivos con óxidos sobre la anterior base.
 
-  ![Mayólica](images/B00_10.png)
+  ![Mayólica](images/0010.png)
 
 - **Mendrugo:** Pedazo de pan duro o desechado, especialmente el sobrante.
 - **Menester:** 1  Falta o necesidad de algo. 2 - Ser preciso o necesario.
@@ -225,24 +240,24 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Pecuniario:** Del dinero o relacionado con el dinero.
 - **Pelliza:** Chaqueta con cuello y bocamangas de piel o reforzados de otra tela.
 
-  ![Pelliza](images/B00_0A.png)
+  ![Pelliza](images/000A.png)
 
 - **Peñasco:** Roca de mayor tamaño y altura que la peña, situada generalmente en un lugar alto.
 - **Persignar:** Hacer con la punta de los dedos de la mano, especialmente con los dedos índice y pulgar, tres cruces, la primera en la frente, la segunda en la boca y la tercera en el pecho.
 
-![Persignar](images/B00_14.png)
+![Persignar](images/0014.png)
 
 - **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
-  ![Plegadera](images/B00_0C.png)
+  ![Plegadera](images/000C.png)
 
 - **Porra:** Palo con una bola o cabeza gruesa y redondeada en uno de sus extremos, que se usa como arma para golpear.
 - **Postín:** Distinción o elegancia de las personas ricas.
 - **Postrernarse:** Arrodillarse en señal de respeto.
 - **Potaje:** Guiso caldoso que se prepara con legumbres y verduras o arroz al que en ocasiones se le añade trozos de algún tipo de carne o de embutido; es un plato típico de diversas regiones españolas, variando en cada una el tipo y cantidad de ingredientes.
 
-  ![Potaje](images/B00_11.png)
+  ![Potaje](images/0011.png)
 
 - **Presteza:** Habilidad y rapidez para hacer o decir una cosa.
 - **Profuso-(a):** Que es muy abundante.
@@ -261,11 +276,11 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Rezumar:** Salir [un líquido] de un cuerpo o del recipiente en que está contenido, por transpiración o a través de sus rendijas.
 - **Rodaballo:** El rodaballo o turbot es una especie de pez pleuronectiforme de la familia Scophthalmidae.
 
-  ![Rodabballo](images/B00_03.png)
+  ![Rodabballo](images/0003.png)
 
 - **Rosbif:** El Roast Beef es un corte de buey tierno que se asa al horno. En la cocina inglesa, y por extensión en muchos países de tradición anglosajona como Australia, el roast beef es un plato muy tradicional, servido preferentemente los domingos.
 
-  ![Schi](images/B00_06.png)
+  ![Schi](images/0006.png)
 
 ## S
 
@@ -273,14 +288,15 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Sacristán:** Persona que cuida de los objetos guardados en la sacristía y de la limpieza de la iglesia; también puede ayudar al sacerdote en el altar.
 - **Samovar:** El samovar es un recipiente metálico en forma de cafetera alta, dotado de una chimenea interior con infiernillo, y sirve para hacer té. Con el paso de los siglos, el samovar se ha convertido en un icono de la cultura rusa del té.
 
-  ![Samovar](images/B00_0F.png)
+  ![Samovar](images/000F.png)
 
 - **Saturnino:** Que es de carácter triste y taciturno.
 - **Schi:** Sopa típica rusa a base de col.
 
-  ![Schi](images/B00_04.png)
+  ![Schi](images/0004.png)
 
 - **Séquito:** Grupo de personas que acompaña a un lugar a otra más importante, especialmente en una ceremonia o en un acto solemne.
+- **Simiente:** Grano contenido en el interior del fruto de una planta y que, puesto en las condiciones adecuadas, germina y da origen a una nueva planta de la misma especie.
 - **Sinuoso:** 1 - Que tiene recodos, curvas y ondulaciones irregulares y en distintos sentidos. 2 - Que es poco claro y pretende ocultar la verdadera intención o propósito de sus acciones, objetivos o manifestaciones.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
 - **Sórdido:** 1 Que es miserable o sucio. 2 - Que es indecente o malicioso.
@@ -321,5 +337,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Zafio:** Que es inculto y no tiene finura.
 - **Zaguán:** Un zaguán es, en términos genéricos, un espacio cubierto situado en las casas, normalmente junto a la puerta.​ En este sentido, tiene un significado similar a vestíbulo. Es un elemento de paso, sin carácter habitacional.
+- **Zamarra:** Prenda amplia de vestir, rústica, de abrigo, que cubre el cuerpo hasta medio muslo, hecha de piel con lana o pelo por fuera o por dentro.
+
+  ![Zamarra](images/001F.png)
+
 - **Zemstvo:** Asambeas o Cámaras autónomas provinciales y municipales, que se crearon en Rusia en tiempos de Alejandro II.
 - **Zíngaro:** Que pertenece a la raza gitana, especialmente la de Europa central.
