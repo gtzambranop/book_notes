@@ -7,6 +7,7 @@
 
 - **Acémila:** Mula o macho que se usa para llevar carga.
 - **Acometer:** Atacar con ímpetu y fuerza contra algo o contra alguien.
+- **Acusiante:** Que se manifiesta con fuerza, viveza y pasión.
 - **Adusta:** Que es excesivamente rígido, áspero y desapacible en el trato.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
 
@@ -23,6 +24,7 @@
 - **Aquilina - (o):** Que es aguileño
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Apero:** 1 - Utensilio o herramienta de determinados oficios o actividades, en especial de las faenas agrícolas. 2 - Lugar donde se recogen el ganado y los pastores por la noche.
+- **Argamaza:** Mezcla de diversos materiales, como cal o cemento, arena y agua, que se usa en la construcción para fijar ladrillos y cubrir paredes.
 - **Arrobamiento:** Estado de la persona que siente un placer, una admiración o una alegría tan intensos que no puede pensar ni sentir nada más.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
@@ -110,14 +112,18 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 ## E
 
+- **Embelesar:** Producir un sentimiento de placer o admiración tan intenso que enfrasca en su disfrute a la persona que lo contempla, oye, etc., y le hace olvidarse de todo lo demás.
 - **Enagua:** Una enagua ​ es una prenda de ropa interior femenina. Se usa más en plural.​ También se conocen como combinación.​ La enagua es una falda usada como ropa interior pero sobre ropa interior íntima.
 
   ![Enagua](images/0013.png)
 
 - **Encabritar:** 1 - Provocar agitación o excitación en algo o a alguien. 2 - Ponerse [un caballo] sobre las patas traseras, levantando las delanteras.
+- **Endosar:** 1 - Pasar a otra persona un trabajo o una cosa que resulta pesada o molesta. 2 - es una declaración, pura y simple, puesta en el título-valor por la cual su tenedor legitima a otra persona en el ejercicio de los derechos incorporados al título
 - **Entremés:** Un entremés es una pequeña porción de alimento que se sirve durante las comidas o cenas para picar de ellas mientras se sirven los platos
 - **Empaladiza:** Valla hecha con palos, cañas, estacas, etc., clavados en el suelo y que sirve como defensa o para cercar un terreno.
 - **Eremita:** Persona que vive sola en un lugar deshabitado, especialmente para dedicar su vida a la oración y al sacrificio.
+- **Escatimar:** Dar o emplear la menor cantidad posible de cierta cosa.
+- **Escueto-(a):** Que es simple, sin adornos, detalles superfluos ni cosas innecesarias.
 - **Esquela:** Tarjeta o papel en que se notifica la muerte de una persona y el lugar, día y hora del entierro.
 - **Estío:** Verano.
 - **Exámine:** 1 - Que está sin vida o no da señales de vida. 2 - Que está muy debilitado o agotado.
@@ -136,6 +142,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
   ![Frailecillos](images/001C.png)
 
+- **Frontispicio:** En artes gráficas, un frontispicio o frontis es una ilustración decorativa elaborada para aparecer en la hoja que antecede a la página del título o en esta misma.
 - **Fullería:** Trampa en el juego o astucia con que se pretende engañar.
 - **Fustigar:** 1 - Dar golpes o azotar con un instrumento, especialmente al caballo con la fusta para estimularlo. 2 - Criticar o reprender con dureza a una persona o una cosa.
 - **Fútil:** Que carece de importancia o interés por su falta de fundamento.
@@ -167,7 +174,9 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Imberbe:** Que no tiene pelo en la barba o tiene muy poco, en especial si es joven.
 - **Impávido:** 1 - Que hace frente a una situación de peligro o riesgo sin dejarse dominar por el miedo o la angustia. 2 - Que no se altera, perturba o muestra emoción alguna ante una impresión o estímulo externo que normalmente producen turbación, desencadenan una emoción o inducen a determinada acción.
 - **Incisivo:** 1 - Que está situado en la parte delantera de la boca y tiene la función de cortar los alimentos. 2 - Que profundiza o penetra hasta el fondo de las cosas, o más allá de lo que se considera normal.
+- **Indagar:** Tratar de llegar al conocimiento de una cosa reflexionando sobre ella o por conjeturas y pruebas.
 - **Indulgencia:** Actitud o tendencia de la persona que tiene especial facilidad para perdonar las ofensas, o castigarlas con benevolencia, y para juzgar sin severidad los errores de los demás.
+- **Inexpugnable:** Que resulta imposible de conquistar.
 - **Inefable:** Que no puede ser dicho, explicado o descrito con palabras, generalmente por tener cualidades excelsas o por ser muy sutil o difuso.
 - **Infimo:** Que es muy bajo en cantidad, calidad o importancia.
 - **In-folio:** In-folio o infolio (del latín in folio, en hoja) o, abreviado como in-2º, es un término técnico utilizado en encuadernación que indica el tamaño de un libro, donde la hoja impresa se ha doblado sólo una vez sobre el lado menor, por lo que da lugar a dos folios que equivalen a cuatro páginas. <br>
@@ -247,6 +256,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ![Persignar](images/0014.png)
 
+- **Pesquisa:** nvestigación que se hace de una cosa para descubrir o averiguar algo, en especial la que realiza la policía.
 - **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
@@ -298,7 +308,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Séquito:** Grupo de personas que acompaña a un lugar a otra más importante, especialmente en una ceremonia o en un acto solemne.
 - **Simiente:** Grano contenido en el interior del fruto de una planta y que, puesto en las condiciones adecuadas, germina y da origen a una nueva planta de la misma especie.
 - **Sinuoso:** 1 - Que tiene recodos, curvas y ondulaciones irregulares y en distintos sentidos. 2 - Que es poco claro y pretende ocultar la verdadera intención o propósito de sus acciones, objetivos o manifestaciones.
+- **Socavar:** 1 - Excavar alguna cosa por debajo, dejándola sin apoyo y expuesta a hundirse. 2 - Debilitar la fuerza moral de una ideología o un valor espiritual, o de la persona que la defiende o representa.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
+- **Soporífero-(a):** Que es tan aburrido que provoca ganas de dormir.
 - **Sórdido:** 1 Que es miserable o sucio. 2 - Que es indecente o malicioso.
 - **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
 - **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.
@@ -308,6 +320,11 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Taciturno:** Que es habitualmente callado o silencioso.
 - **Tafilete:** Piel curtida bruñida y lustrosa mucho más delgada y adaptable que el cordobán; se utiliza para la fabricación de bolsos, guantes, zapatos, etc.
 - **Tapia:** Trozo de pared o muro que se hace de una sola vez con barro apisonado en un molde (tapial) y después secado al sol.
+- **Tara:** Defecto de una cosa manufacturada, especialmente el que no pasa de ser una leve imperfección que disminuye el valor de un objeto.
+- **Taquigrafía:** La taquigrafía o estenografía es todo aquel sistema de escritura rápido y conciso que permite transcribir un discurso a la misma velocidad a la que se habla. Para ello se suelen emplear trazos breves, abreviaturas y caracteres especiales para representar letras, palabras e incluso frases.
+
+  ![Taquigrafía](images/0021.png)
+
 - **Tez:** Piel de la cara de una persona.
 - **Trajinar:** Moverse mucho una persona o andar de un sitio para otro.
 - **Trascender:** Hacer sentir sus efectos o tener consecuencias en lugar o medio distinto de aquel en que se produce.

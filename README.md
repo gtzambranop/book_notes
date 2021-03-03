@@ -5,6 +5,7 @@
 
 | Título | Autor | Inicio de Lectura | Fin de Lectura |
 | :---: | :---: | :---: | :---: |
-| [Anna Karènina](2021/B000.md) | León Tolstoi | 09-02-2021 | ? |
-| [1984](2021/B001.md) | George Orwell | 15-02-2021 | ? |
-| [Drácula](2021/B002.md) | Bram Stoker | 22-02-2021 | ? |
+| [Anna Karènina](2021/B000.md) | León Tolstoi | 2021-02-09 | ? |
+| [1984](2021/B001.md) | George Orwell | 2021-02-15 | ? |
+| [Drácula](2021/B002.md) | Bram Stoker | 2021-02-22 | ? |
+| [El mundo como obra de arte](2021/B003.md) | Frank Wilczek | 2021-03-01 | ? |
