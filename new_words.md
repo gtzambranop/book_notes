@@ -9,6 +9,7 @@
 - **Acometer:** Atacar con ímpetu y fuerza contra algo o contra alguien.
 - **Acusiante:** Que se manifiesta con fuerza, viveza y pasión.
 - **Adusta:** Que es excesivamente rígido, áspero y desapacible en el trato.
+- **Afable:** Que es agradable, apacible y cordial en el trato.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
 
   ![Gallinago](images/0002.png)
@@ -39,6 +40,7 @@
 - **Barbián:** Que es desenvuelto y simpático.
 - **Barbecho:** El barbecho es una técnica de la agricultura por la cual la tierra de cultivo se deja sin sembrar durante uno o varios ciclos vegetativos. Su fin es recuperar y almacenar materia orgánica y humedad junto con evitar patógenos, esperando a que sus ciclos terminen sin poder volver a renovarse debido a la falta de hospederos disponibles.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
+- **Beatífico-(a):** Que tiene o produce serenidad y placidez.
 - **Berserkers:** Eran guerreros vikingos que combatían semidesnudos, cubiertos de pieles. Entraban en combate bajo cierto trance de perfil psicótico, casi insensibles al dolor, fuertes como osos o toros, y llegaban a morder sus escudos y no había fuego ni acero que los detuviera.​
 - **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
 - **Brizna:** 1 - Filamento o hebra, especialmente de una planta o de un fruto. 2 - Porción muy pequeña de una cosa material o inmaterial.
@@ -100,8 +102,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 ## D
 
 - **Decimónico:** Del siglo XIX o relacionado con él.
+- **Desbandarse:** Separarse en desorden y en diferentes direcciones.
 - **Dilapidar:** Malgastar el dinero o los bienes.
 - **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
+- **Displicencia:** Actitud indiferente y de desagrado hacia algo o alguien.
 - **Diván:** Un diván es un tipo de mueble para sentarse, similar al sofá. Originalmente, en Oriente, un diván era un asiento largo formado por un colchón puesto contra un lado de la estancia, bien en el suelo, bien sobre una estructura o un marco levantado, con cojines para apoyarse.
 
   ![Diván](images/001A.png)
@@ -187,6 +191,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Inocular:** Introducir en el organismo por medios artificiales el virus o la bacteria de una enfermedad contagiosa.
 - **Intemperancia:** Falta de templanza o moderación.
 - **Irascible:** Que es propenso a irritarse.
+- **Irrisorio-(a):** 1 Que provoca risa y burla. 2 - Que es muy pequeño o insignificante.
 
 ## J
 
@@ -257,6 +262,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ![Persignar](images/0014.png)
 
 - **Pesquisa:** nvestigación que se hace de una cosa para descubrir o averiguar algo, en especial la que realiza la policía.
+- **Pétreo-(a):** Que tiene la dureza, textura u otra característica propia de la piedra.
 - **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
@@ -292,6 +298,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
   ![Schi](images/0006.png)
 
+- **Rubicundo-(a):** Que es de color rubio que tira a rojo.
 ## S
 
 - **Sacarina:** es un aditivo edulcorante artificial que no contiene calorías. Fue descubierto en 1879, es entre 300 y 500 veces más dulce que la sacarosa y se utiliza en alimentos y bebidas.
