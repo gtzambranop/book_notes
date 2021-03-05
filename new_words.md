@@ -40,6 +40,7 @@
 - **Barbián:** Que es desenvuelto y simpático.
 - **Barbecho:** El barbecho es una técnica de la agricultura por la cual la tierra de cultivo se deja sin sembrar durante uno o varios ciclos vegetativos. Su fin es recuperar y almacenar materia orgánica y humedad junto con evitar patógenos, esperando a que sus ciclos terminen sin poder volver a renovarse debido a la falta de hospederos disponibles.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
+- **Batiente:** 1 - Que bate o golpea repetidas veces. 2 - Parte del cerco o marco de una puerta o ventana sobre el que baten las puertas o ventanas al cerrarse.
 - **Beatífico-(a):** Que tiene o produce serenidad y placidez.
 - **Berserkers:** Eran guerreros vikingos que combatían semidesnudos, cubiertos de pieles. Entraban en combate bajo cierto trance de perfil psicótico, casi insensibles al dolor, fuertes como osos o toros, y llegaban a morder sus escudos y no había fuego ni acero que los detuviera.​
 - **Bribón-(ona):** Que es astuto y taimado, especialmente si utiliza artimañas para engañar o cometer delitos menores.
@@ -82,7 +83,9 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
   ![Canapé](images/0000.png)
 
 - **Candor:** 1- Máxima blancura. 2 - Ingenuidad, falta total de malicia y de hipocresía.
+- **Cebar:** Alimentar a un animal para que aumente de peso o se ponga gordo, generalmente con el fin de aprovechar su carne.
 - **Charabán:** Antiguo coche descubierto con dos o más filas de asientos.
+- **Cíngarp-(a):** Que pertenece a la raza gitana, especialmente la de Europa central.
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
 - **Confitura:** Se llama confitura al producto resultante de recubrir con un baño de azúcar una fruta o una semilla para hacerla más agradable.
@@ -229,6 +232,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Menester:** 1  Falta o necesidad de algo. 2 - Ser preciso o necesario.
 - **Mies:** Cereal que ya está maduro para ser recolectado.
 - **Mieses:** Terrenos en los que se cultivan cereales.
+- **Minucioso-(a):** Que hace las cosas con detenimiento y cuidando los más pequeños detalles.
 - **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
 - **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
 
@@ -333,6 +337,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
   ![Taquigrafía](images/0021.png)
 
 - **Tez:** Piel de la cara de una persona.
+- **Torvo-(a):** Que tiene aspecto fiero y airado.
 - **Trajinar:** Moverse mucho una persona o andar de un sitio para otro.
 - **Trascender:** Hacer sentir sus efectos o tener consecuencias en lugar o medio distinto de aquel en que se produce.
 - **Tubo neumático:** Son sistemas en los cuales contenedores cilíndricos son propulsados a través de una red de tubos por medio de aire comprimido o por medio de vacío. Son usados para transportar objetos sólidos, al contrario de las tuberías comunes, que transportan gases o fluidos.
