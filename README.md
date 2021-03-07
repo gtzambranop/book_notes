@@ -9,3 +9,4 @@
 | [1984](2021/B001.md) | George Orwell | 2021-02-15 | ? |
 | [Drácula](2021/B002.md) | Bram Stoker | 2021-02-22 | ? |
 | [El mundo como obra de arte](2021/B003.md) | Frank Wilczek | 2021-03-01 | ? |
+| [Juan Salvador Gaviota](2021/B004.md) | Richard Bach | 2021-03-05 | 2021-03-06 |
