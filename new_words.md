@@ -8,6 +8,7 @@
 - **Acémila:** Mula o macho que se usa para llevar carga.
 - **Acometer:** Atacar con ímpetu y fuerza contra algo o contra alguien.
 - **Acusiante:** Que se manifiesta con fuerza, viveza y pasión.
+- **Adepto-(a):** Que es partidario de una persona, una cosa o una idea.
 - **Adusta:** Que es excesivamente rígido, áspero y desapacible en el trato.
 - **Afable:** Que es agradable, apacible y cordial en el trato.
 - **Agachadizas - Gallinago:** Es una especie de ave Charadriiforme de la familia Scolopacidae ampliamente distribuida en Eurasia, África y América.
@@ -268,6 +269,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Pesquisa:** nvestigación que se hace de una cosa para descubrir o averiguar algo, en especial la que realiza la policía.
 - **Pétreo-(a):** Que tiene la dureza, textura u otra característica propia de la piedra.
 - **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
+- **Pitanza:** 1 - Alimento que toma una persona. 2 - Ración de comida que se da a la gente que vive en comunidad o a los pobres.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
   ![Plegadera](images/000C.png)
