@@ -107,6 +107,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 - **Decimónico:** Del siglo XIX o relacionado con él.
 - **Desbandarse:** Separarse en desorden y en diferentes direcciones.
+- **Desdén:** Actitud de indiferencia y desprecio hacia una persona o una cosa.
 - **Dilapidar:** Malgastar el dinero o los bienes.
 - **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
 - **Displicencia:** Actitud indiferente y de desagrado hacia algo o alguien.
@@ -120,6 +121,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 
 ## E
 
+- **Elucidar:** Dilucidar o aclarar una cosa.
 - **Embelesar:** Producir un sentimiento de placer o admiración tan intenso que enfrasca en su disfrute a la persona que lo contempla, oye, etc., y le hace olvidarse de todo lo demás.
 - **Enagua:** Una enagua ​ es una prenda de ropa interior femenina. Se usa más en plural.​ También se conocen como combinación.​ La enagua es una falda usada como ropa interior pero sobre ropa interior íntima.
 
@@ -211,6 +213,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Labriego:** Persona que tiene por oficio trabajar y cultivar la tierra y vive en el medio rural.
 - **Lacayo::** 1 - Criado uniformado que acompañaba a su señor para prestarle ciertos servicios, como abrirle y cerrarle la puerta del automóvil cuando este viajaba. 2 - Soldado de a pie que, junto con otro, acompañaba a un caballero en la guerra e iba armado con una ballesta.
+- **Lacerar:** 1 - Desgarrar la carne de una persona o un animal. 2 - Perjudicar moralmente a alguien.
 - **Lánguido:** Que carece de fuerza, vigor o lozanía.
 - **Laxo:** 1 - Que está flojo, carece de rigidez o tensión. 2 - Que es poco riguroso o severo en cuestiones de moral.
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
@@ -357,6 +360,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Vaticinio:** Acción de anunciar un hecho futuro a partir de ciertos indicios o por simple intuición.
 - **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
 - **Vellón:** Conjunto de lana que se le quita a una oveja o a un carnero al esquilarlo.
+- **Vituperar:** Censurar o desaprobar con mucha dureza una cosa o a una persona.
 
 ## W
 
