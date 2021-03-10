@@ -31,6 +31,7 @@
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
 - **Asiduo-(a):** Que realiza con constancia y con cierta continuidad o frecuencia alguna cosa.
+- **Atusar:** Alisar el pelo o arreglar ligeramente el peinado pasando superficialmente la mano o el peine.
 - **Auscultar:** 1 - Intentar averiguar el pensamiento de otra persona o su disposición acerca de un asunto. 2 - Escuchar los sonidos que se producen en el interior de un organismo humano o animal, especialmente en la cavidad torácica y abdominal, mediante los instrumentos adecuados o sin ellos.
 - **Austero:** 1 - Que es sencillo y sin alardes ni adornos superfluos. 2 - Que es estricto en el cumplimiento de las normas morales.
 - **Aya:** Persona que en una casa acomodada se encargaba del cuidado y educación de los niños.
@@ -296,6 +297,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## R
 
 - **Ralo:** Que es poco espeso o poblado.
+- **Regimiento:** Unidad militar compuesta por varios batallones de un arma determinada y mandada por un coronel.fi
 - **Resongar:** Emitir sonidos no articulados o palabras murmuradas entre dientes en señal de enfado o desagrado.
 - **Reticencia:** Hecho de insinuar o no decir directamente algo, generalmente con intención maliciosa.
 - **Rezumar:** Salir [un líquido] de un cuerpo o del recipiente en que está contenido, por transpiración o a través de sus rendijas.
