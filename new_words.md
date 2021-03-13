@@ -145,6 +145,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Fámulo:** Criado o sirviente de un convento u otro medio eclesiástico. Criado o sirviente doméstico.
 - **Fatuo:** Que se muestra engreído en su actitud, comportamiento o manera de hablar.
 - **Follón:** Lío, situación o asunto confuso, desordenado, problemático o difícil de resolver.
+- **Fonógrafo:** El fonógrafo fue el primer dispositivo más común para grabar y reproducir sonidos desde la década de 1870 hasta la década de 1880. El fonógrafo fue inventado por Thomas Alva Edison. En sus formas posteriores, también se llama un gramófono, o, desde la década de 1940, un reproductor de discos.
+
+  ![Fonógrafo](images/0023.png)
+
 - **Frac:** El frac es un traje masculino de tipo formal que constituye el tipo de vestuario más formal para el hombre en celebraciones nocturnas.
 
   ![Frac](images/001B.png)
