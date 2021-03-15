@@ -1,6 +1,7 @@
 ## Nuevas Palabras
 ## A
 
+- **Abadía:** Una abadía es un monasterio o convento cristiano bajo las órdenes de un abad o una abadesa, que son el padre o la madre espiritual de la comunidad. Un priorato solo difiere de la abadía en que el monje superior lleva el título de prior en lugar de abad.
 - **Abedul:** Árbol de la familia de las betuláceas, de unos diez metros de altura, con hojas pequeñas, puntiagudas y doblemente aserradas o dentadas, que abunda en los montes de Europa.
 
   ![Abedul](images/0009.png)
@@ -107,6 +108,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 ## D
 
 - **Decimónico:** Del siglo XIX o relacionado con él.
+- **Deleznable:** 1 - Que es despreciable y no merece ser tenido en consideración. 2 - Que se rompe, se disgrega o se deshace fácilmente.
 - **Desbandarse:** Separarse en desorden y en diferentes direcciones.
 - **Desdén:** Actitud de indiferencia y desprecio hacia una persona o una cosa.
 - **Dilapidar:** Malgastar el dinero o los bienes.
@@ -203,6 +205,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Intemperancia:** Falta de templanza o moderación.
 - **Irascible:** Que es propenso a irritarse.
 - **Irrisorio-(a):** 1 Que provoca risa y burla. 2 - Que es muy pequeño o insignificante.
+- **Isbá:** Una izbá o isbá es una típica vivienda campesina rusa. Construida con troncos, constituía la residencia habitual de una familia campesina rusa tradicional. Generalmente se construían cerca de un camino y dentro de un corral, que también incluía un jardín, un henil y un granero.
 
 ## J
 
@@ -219,6 +222,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Labriego:** Persona que tiene por oficio trabajar y cultivar la tierra y vive en el medio rural.
 - **Lacayo::** 1 - Criado uniformado que acompañaba a su señor para prestarle ciertos servicios, como abrirle y cerrarle la puerta del automóvil cuando este viajaba. 2 - Soldado de a pie que, junto con otro, acompañaba a un caballero en la guerra e iba armado con una ballesta.
 - **Lacerar:** 1 - Desgarrar la carne de una persona o un animal. 2 - Perjudicar moralmente a alguien.
+- **Lacónico:** Laconismo es la forma de expresarse breve y concisamente, con las palabras justas y, a la vez, ingeniosamente.
 - **Lanceta:** Una lanceta para sangre o simplemente lanceta, es un pequeño instrumento médico usado para el muestreo de sangre capilar. Esta es similar a un pequeño bisturí pero con una hoja de doble filo o aguja.
 
   ![Lanceta](images/0022.png)
@@ -233,6 +237,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## M
 
 - **Malediciencia:** Acción de maldecir o difamar a alguien.
+- **Malecón:** Muro grueso construido a la orilla del mar, playa o puerto para protegerlos de la fuerza del agua.
 - **Mamaliga:** La mămăligă, pulicka en húngaro es un pan elaborado con harina de maíz, sémola consistente en una masa de color amarillo. Es muy típica en la cocina rumana, y se asemeja a la polenta italiana. La mămăliga es un alimento tradicional de Rumanía y Moldavia.
 
   ![Mamaliga](images/0012.png)
@@ -263,6 +268,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 ## P
 
+- **Palafrenero:** Un palafrenero era, antiguamente, el criado que llevaba el caballo cogido del freno. La palabra proviene de *palafrén*, el caballo que suele montar el criado cuando acompañaba a su amo a cabal.
 - **Palimpsesto:** Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto primitivo para volver a escribir un nuevo texto.
 - **Paneslavismo:** El paneslavismo es un movimiento político y cultural, nacido de una ideología nacionalista, surgido en el siglo XIX con el objetivo de promover la unión cultural, religiosa y política, así como la mutua cooperación, entre todos los países eslavos de Europa.
 - **Párvulo:** Niño de corta edad, que no ha alcanzado la edad escolar, especialmente el que asiste a un centro o a una clase de educación preescolar.
@@ -304,6 +310,10 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 ## Q
 
 ## R
+
+- **Radiolarios:** son un grupo de protistas ameboides que producen intrincados esqueletos minerales, que se encuentran como zooplancton en el océano.​ Suelen ser unicelulares, aunque algunos forman colonias de miles de individuos. Las dos características más distintivas de los radiolarios son su esqueleto y los axopodios. Los radiolarios producen un esqueleto que puede tener una estructura muy elaborada y de gran belleza, con una apariencia opalina. Del cuerpo de la célula salen numerosas proyecciones denominadas axopodios que le dan una apariencia radiada y le sirven al organismo para el movimiento y para capturar pequeñas presas.
+
+  ![Radiolarios](images/0025.png)
 
 - **Ralo:** Que es poco espeso o poblado.
 - **Regimiento:** Unidad militar compuesta por varios batallones de un arma determinada y mandada por un coronel.fi
