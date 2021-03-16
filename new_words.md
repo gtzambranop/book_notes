@@ -28,6 +28,7 @@
 - **Apear:** Bajar de un vehículo o de una caballería en que se va montado.
 - **Apero:** 1 - Utensilio o herramienta de determinados oficios o actividades, en especial de las faenas agrícolas. 2 - Lugar donde se recogen el ganado y los pastores por la noche.
 - **Argamaza:** Mezcla de diversos materiales, como cal o cemento, arena y agua, que se usa en la construcción para fijar ladrillos y cubrir paredes.
+- **Argüir:** Sacar una conclusión por medio de un razonamiento a partir de un supuesto anterior o de un principio general.
 - **Arrobamiento:** Estado de la persona que siente un placer, una admiración o una alegría tan intensos que no puede pensar ni sentir nada más.
 - **Asió:** Tomar o coger con la mano, y, en general, tomar, coger, prender.
 - **Aristocracia:** Clase social formada por las personas que poseen títulos nobiliarios concedidos por el rey o heredados de sus antepasados.
@@ -346,11 +347,13 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Simiente:** Grano contenido en el interior del fruto de una planta y que, puesto en las condiciones adecuadas, germina y da origen a una nueva planta de la misma especie.
 - **Sinuoso:** 1 - Que tiene recodos, curvas y ondulaciones irregulares y en distintos sentidos. 2 - Que es poco claro y pretende ocultar la verdadera intención o propósito de sus acciones, objetivos o manifestaciones.
 - **Socavar:** 1 - Excavar alguna cosa por debajo, dejándola sin apoyo y expuesta a hundirse. 2 - Debilitar la fuerza moral de una ideología o un valor espiritual, o de la persona que la defiende o representa.
+- **Sofisma:** Argumento falso o capcioso que se pretende hacer pasar por verdadero.
 - **Solaz:** Placer, entretenimiento y descanso de las actividades habituales.
 - **Soporífero-(a):** Que es tan aburrido que provoca ganas de dormir.
 - **Sórdido:** 1 Que es miserable o sucio. 2 - Que es indecente o malicioso.
-- **Sosiego:** Estado de tranquilidad o calma en algo o alguien.
+- **Sosiego:** Estado de trasnquilidad o calma en algo o alguien.
 - **Sublevar:** 1 - Enfrentarse a un poder establecido, utilizando la fuerza o las armas. 2 - Irritarse o alterarse mucho una persona.
+- **Subversivo-(a):** Que pretende alterar el orden social o destruir la estabilidad política de un país.
 
 ## T
 
