@@ -396,6 +396,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Zafio:** Que es inculto y no tiene finura.
 - **Zaguán:** Un zaguán es, en términos genéricos, un espacio cubierto situado en las casas, normalmente junto a la puerta.​ En este sentido, tiene un significado similar a vestíbulo. Es un elemento de paso, sin carácter habitacional.
+- **Zalamería:** Demostración de cariño exagerada y a veces empalagosa, generalmente para conseguir algo.
 - **Zamarra:** Prenda amplia de vestir, rústica, de abrigo, que cubre el cuerpo hasta medio muslo, hecha de piel con lana o pelo por fuera o por dentro.
 
   ![Zamarra](images/001F.png)
