@@ -22,6 +22,7 @@
   ![Alfarfón](images/000B.png)
 
 - **Aliciente:** Aspecto positivo de algo, que sirve de estímulo y mueve a una persona a realizar una acción o a actuar de determinada manera.
+- **Antípoda:** Que está situado diametralmente opuesto a otro.
 - **Añinos:** Se llaman añinos o añinas a las pieles con su lana de los corderos que no llegan a un año y que han sido adobadas por los curtidores
 - **Añorar:** Recordar con pena a alguien o algo ausente, lejano, perdido o del que se ha sido privado.
 - **Aquilina - (o):** Que es aguileño
@@ -44,6 +45,10 @@
 - **Barbián:** Que es desenvuelto y simpático.
 - **Barbecho:** El barbecho es una técnica de la agricultura por la cual la tierra de cultivo se deja sin sembrar durante uno o varios ciclos vegetativos. Su fin es recuperar y almacenar materia orgánica y humedad junto con evitar patógenos, esperando a que sus ciclos terminen sin poder volver a renovarse debido a la falta de hospederos disponibles.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
+- **Baptisterio:** Edificio contiguo a una iglesia donde se encuentra la pila bautismal y tiene lugar la ceremonia del bautismo; generalmente es de pequeñas dimensiones, con planta redonda o poligonal y descubierto.
+
+  ![Baptisterio](images/0026.png)
+
 - **Batiente:** 1 - Que bate o golpea repetidas veces. 2 - Parte del cerco o marco de una puerta o ventana sobre el que baten las puertas o ventanas al cerrarse.
 - **Beatífico-(a):** Que tiene o produce serenidad y placidez.
 - **Berserkers:** Eran guerreros vikingos que combatían semidesnudos, cubiertos de pieles. Entraban en combate bajo cierto trance de perfil psicótico, casi insensibles al dolor, fuertes como osos o toros, y llegaban a morder sus escudos y no había fuego ni acero que los detuviera.​
@@ -89,6 +94,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Candor:** 1- Máxima blancura. 2 - Ingenuidad, falta total de malicia y de hipocresía.
 - **Cebar:** Alimentar a un animal para que aumente de peso o se ponga gordo, generalmente con el fin de aprovechar su carne.
 - **Charabán:** Antiguo coche descubierto con dos o más filas de asientos.
+- **Cincha:** Las cinchas son una especie de fajas, comúnmente de tela de cáñamo y ribeteadas de cordobán o de badana, que abrazan y sujetan la silla del caballo sobre su lomo.
+
+  ![cincha](images/0028.png)
+
 - **Cíngarp-(a):** Que pertenece a la raza gitana, especialmente la de Europa central.
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
@@ -172,6 +181,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
   ![Gorguera](images/0008.png)
 
 - **Gozne:** Bisagra, especialmente la de una puerta o ventana.
+- **Gualdrapa:** Gualdrapa es la tela que se pone sobre la silla de montar y las ancas de la mula o sobre el caballo​para que el lodo no salpique al caballero o no le moleste el polvo, el sudor o el propio pelo del animal.​
+
+  ![Gualdrapa](images/0027.png)
+
 - **Guisa:** Modo, manera.
 
 ## H
