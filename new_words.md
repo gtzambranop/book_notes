@@ -42,6 +42,7 @@
 
 ## B
 
+- **Balneario:** De los baños públicos, especialmente los medicinales y curativos, o que tiene relación con estos lugares o establecimientos.
 - **Barbián:** Que es desenvuelto y simpático.
 - **Barbecho:** El barbecho es una técnica de la agricultura por la cual la tierra de cultivo se deja sin sembrar durante uno o varios ciclos vegetativos. Su fin es recuperar y almacenar materia orgánica y humedad junto con evitar patógenos, esperando a que sus ciclos terminen sin poder volver a renovarse debido a la falta de hospederos disponibles.
 - **Bambolear:** Hacer mover una persona o una cosa de un lado a otro de modo alternativo y continuado manteniendo fijo algún punto, en vaivén.
@@ -246,6 +247,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
 - **LLaneza:** Manera sencilla, clara de hacer o decir las cosas.
 - **Lóbrego:** 1 - Que es oscuro o sombrío e inspira temor o tristeza. 2 - Que es confuso o incierto.
+- **Locuaz:** Que habla mucho, en especial cuando lo hace con soltura o facilidad.                      
 - **Lunático:** Que tiene cambios bruscos de carácter o de humor sin explicación.
 
 ## M
@@ -268,6 +270,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Minucioso-(a):** Que hace las cosas con detenimiento y cuidando los más pequeños detalles.
 - **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
 - **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
+- **Moh+in:** Gesto del rostro con el que se expresa desagrado o enfado, especialmente el que se hace con los labios.
 
 ## N
 
