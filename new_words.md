@@ -419,3 +419,4 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 
 - **Zemstvo:** Asambeas o Cámaras autónomas provinciales y municipales, que se crearon en Rusia en tiempos de Alejandro II.
 - **Zíngaro:** Que pertenece a la raza gitana, especialmente la de Europa central.
+- **Zozobra:** Sentimiento de tristeza, angustia o inquietud de quien teme algo.
