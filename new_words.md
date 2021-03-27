@@ -123,6 +123,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Desbandarse:** Separarse en desorden y en diferentes direcciones.
 - **Desdén:** Actitud de indiferencia y desprecio hacia una persona o una cosa.
 - **Dilapidar:** Malgastar el dinero o los bienes.
+- **Disonancia:** Falta de correspondencia, conformidad o igualdad entre dos o más cosas.
 - **Dispensar:** 1 - Otorgar, conceder o distribuir algo, generalmente algo positivo o que implica afecto. 2 - Suministrar algo, especialmente medicamentos o recetas médicas.
 - **Displicencia:** Actitud indiferente y de desagrado hacia algo o alguien.
 - **Diván:** Un diván es un tipo de mueble para sentarse, similar al sofá. Originalmente, en Oriente, un diván era un asiento largo formado por un colchón puesto contra un lado de la estancia, bien en el suelo, bien sobre una estructura o un marco levantado, con cojines para apoyarse.
@@ -176,6 +177,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Fútil:** Que carece de importancia o interés por su falta de fundamento.
 
 ## G
+
+- **Goleta:** Embarcación antigua con las bordas poco elevadas, de dos o tres palos, cada uno de ellos con un solo mastelero o palo menor y una sola vela cangreja o trapezoidal.
+
+  ![Goleta](images/002B.png)
 
 - **Gorguera:** Cuello rígido, redondo, generalmente de lino, holanda o encaje, doblado formando pliegues y ondulaciones, que se usó en Europa occidental los siglos XVI y XVII.
 
@@ -271,6 +276,9 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Minuta:** 1 - Cuenta que presenta un profesional liberal como honorarios por su trabajo. Borrador que se hace de un escrito, especialmente de un contrato, antes de redactarlo definitivamente.
 - **Mofarse:** Burlarse de una persona o de una cosa tratándolas con desconsideración o desprecio.
 - **Moh+in:** Gesto del rostro con el que se expresa desagrado o enfado, especialmente el que se hace con los labios.
+- **Muselina:** La muselina es una tela fina de algodón. Recibe su nombre de la ciudad de Mosul, Irak, que es su lugar de origen.​​
+
+  ![Muselina](images/002A.png)
 
 ## N
 
@@ -400,6 +408,10 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Vaticinio:** Acción de anunciar un hecho futuro a partir de ciertos indicios o por simple intuición.
 - **Vehemente:** Que obra de forma irreflexiva y apasionada, dejándose llevar por los sentimientos o los impulsos.
 - **Vellón:** Conjunto de lana que se le quita a una oveja o a un carnero al esquilarlo.
+- **Visillo:** Un visillo es una cortina de tela fina que permite el paso de la luz de forma velada y no impide totalmente la vista. Se confeccionan en tejidos transparentes, siendo los más habituales el hilo y el lino.​
+
+  ![Visillo](images/0029.png)
+
 - **Vituperar:** Censurar o desaprobar con mucha dureza una cosa o a una persona.
 
 ## W
