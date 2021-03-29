@@ -103,6 +103,7 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
 - **Confitura:** Se llama confitura al producto resultante de recubrir con un baño de azúcar una fruta o una semilla para hacerla más agradable.
+- **Conmiseración:** Sentimiento de pena y dolor por la desgracia o sufrimiento de alguien.
 - **Conturbar:** Alterar el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía.
 - **Corvejón:** Se llama corvejón a la articulación situada en la parte inferior de la pierna y superior de la caña de los cuadrúpedos.
 
@@ -252,11 +253,12 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Lisonjar:** Alabar de forma exagerada y generalmente interesada a una persona para conseguir un favor o para ganar su voluntad.
 - **LLaneza:** Manera sencilla, clara de hacer o decir las cosas.
 - **Lóbrego:** 1 - Que es oscuro o sombrío e inspira temor o tristeza. 2 - Que es confuso o incierto.
-- **Locuaz:** Que habla mucho, en especial cuando lo hace con soltura o facilidad.                      
+- **Locuaz:** Que habla mucho, en especial cuando lo hace con soltura o facilidad.
 - **Lunático:** Que tiene cambios bruscos de carácter o de humor sin explicación.
 
 ## M
 
+- **Macilento-(a):** Que está flaco y demacrado o tiene la cara flaca y pálida.
 - **Malediciencia:** Acción de maldecir o difamar a alguien.
 - **Malecón:** Muro grueso construido a la orilla del mar, playa o puerto para protegerlos de la fuerza del agua.
 - **Mamaliga:** La mămăligă, pulicka en húngaro es un pan elaborado con harina de maíz, sémola consistente en una masa de color amarillo. Es muy típica en la cocina rumana, y se asemeja a la polenta italiana. La mămăliga es un alimento tradicional de Rumanía y Moldavia.
