@@ -7,3 +7,4 @@
 - **Deferencia:** 1 - Adhesión con la opinión o el comportamiento de una persona por respeto hacia ella o por excesiva moderación. 2 - Muestra de respeto y cortesía.
 - **Inefable:** Que no puede ser dicho, explicado o descrito con palabras, generalmente por tener cualidades excelsas o por ser muy sutil o difuso.
 - **Lacónico:** Laconismo es la forma de expresarse breve y concisamente, con las palabras justas y, a la vez, ingeniosamente.
+- **Prístino-(a):** Que se mantiene inalterado, puro, tal como era en su forma primera u original.

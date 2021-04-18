@@ -315,6 +315,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Pesquisa:** nvestigación que se hace de una cosa para descubrir o averiguar algo, en especial la que realiza la policía.
 - **Pétreo-(a):** Que tiene la dureza, textura u otra característica propia de la piedra.
 - **Piafar:** Alzar el caballo, estando parado, las patas delanteras alternativamente dejándolas caer con fuerza y en el mismo punto en que estaban.
+-m **Pietismo:** Doctrina religiosa protestante que tuvo su origen en las ideas el pastor J. Spener (1635-1705); se caracterizó por oponer a la frialdad derivada de la idea de la justificación por la fe, una religión del corazón, un sentimiento más sincero y emocional.
 - **Pitanza:** 1 - Alimento que toma una persona. 2 - Ración de comida que se da a la gente que vive en comunidad o a los pobres.
 - **Plegadera:** Utensilio para plegar o cortar papel que tiene forma parecida a un cuchillo sin filo.
 
@@ -328,6 +329,7 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
   ![Potaje](images/0011.png)
 
 - **Presteza:** Habilidad y rapidez para hacer o decir una cosa.
+- **Prístino-(a):** Que se mantiene inalterado, puro, tal como era en su forma primera u original.
 - **Profuso-(a):** Que es muy abundante.
 - **Proindiviso:**  El derecho parcial de una persona sobre una propiedad. La razón es que comparte la titularidad con una o más personas, por lo que se considera una comunidad de bienes o copropiedad.
 - **Prosaico:** Que resulta vulgar o carece de emoción o interés o elevación, por estar demasiado relacionado con lo material.
