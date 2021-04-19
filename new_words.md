@@ -244,6 +244,10 @@ Cuando la hoja se dobla en cuatro, se habla de in-cuarto o in-4º; si en 8, in-o
 - **Lacayo::** 1 - Criado uniformado que acompañaba a su señor para prestarle ciertos servicios, como abrirle y cerrarle la puerta del automóvil cuando este viajaba. 2 - Soldado de a pie que, junto con otro, acompañaba a un caballero en la guerra e iba armado con una ballesta.
 - **Lacerar:** 1 - Desgarrar la carne de una persona o un animal. 2 - Perjudicar moralmente a alguien.
 - **Lacónico:** Laconismo es la forma de expresarse breve y concisamente, con las palabras justas y, a la vez, ingeniosamente.
+- **Lacre:** El lacre es una pasta a base de colofonia, goma laca y trementina, además de bermellón u otro color mineral. Se funde fácilmente, dada su baja temperatura de fusión, y se usa en cartas, paquetes, etc., para garantizar su cierre. Suele ser de color rojo.
+
+  ![Lacre](images/002C.png)
+
 - **Lanceta:** Una lanceta para sangre o simplemente lanceta, es un pequeño instrumento médico usado para el muestreo de sangre capilar. Esta es similar a un pequeño bisturí pero con una hoja de doble filo o aguja.
 
   ![Lanceta](images/0022.png)
