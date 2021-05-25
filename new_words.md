@@ -100,6 +100,10 @@ El bocio generalmente aparece como resultado de una deficiencia de yodo o una in
   ![cincha](images/0028.png)
 
 - **Cíngarp-(a):** Que pertenece a la raza gitana, especialmente la de Europa central.
+- **Cofia:** Cofia es un gorro o tocado femenino, aunque en algún momento de su historia fue también una prenda masculina.
+
+  ![Cofia](images/002D.png)
+
 - **Coloquio:** Conversación entre dos o más personas.
 - **Condescendiente:** Actitud de la persona que se acomoda o adapta al gusto y la voluntad de otra.
 - **Confitura:** Se llama confitura al producto resultante de recubrir con un baño de azúcar una fruta o una semilla para hacerla más agradable.
